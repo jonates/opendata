@@ -3,10 +3,10 @@
 O arquivo XXXX.csv apresenta estatísticas da criptomoeda BITCOIN negociadas na Exchange Mercado Bitcoin. Os dados são oriundos do https://br.investing.com/crypto/bitcoin/btc-brl-historical-data. 
 
 # O que é Bitcoin?
-#### por Infomoney (07/08/2020)
-##### https://www.infomoney.com.br/cotacoes/bitcoin-btc/
+#### por Infomoney (07/08/2020) - https://www.infomoney.com.br/cotacoes/bitcoin-btc/
 
 **Sigla: BTC**
+
 **Tipo: Criptomoeda**
 
 O **Bitcoin** surgiu em 2008 como uma resposta à crise financeira, com a ideia de substituir o dinheiro físico que usamos e, principalmente, tirar a necessidade de intermediação dos bancos nas operações financeiras.
