@@ -1,6 +1,6 @@
 # Bitcoin do Mercado Bitcoin
 
-O arquivo XXXX.csv apresenta estatísticas da criptomoeda BITCOIN negociadas na Exchange Mercado Bitcoin. Os dados são oriundos do https://br.investing.com/crypto/bitcoin/btc-brl-historical-data. 
+O arquivo **BTC_BRL MercadoBitcoin.csv** contém série histórica (à partir de 13/06/2013) de estatísticas da criptomoeda BITCOIN negociadas na Exchange Mercado Bitcoin. Os dados são oriundos do https://br.investing.com/crypto/bitcoin/btc-brl-historical-data. 
 
 # O que é Bitcoin?
 #### por Infomoney (07/08/2020) - https://www.infomoney.com.br/cotacoes/bitcoin-btc/
