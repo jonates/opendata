@@ -1,13 +1,22 @@
-# Relatório de casos confirmados e óbitos por covid-19 na Bahia
+# Bitcoin do Mercado Bitcoin
 
-Este repostório tem por finalidade guardar scripts e dados para construção de relatórios diários com uso do Rmarkdown.
+O arquivo XXXX.csv apresenta estatísticas da criptomoeda BITCOIN negociadas na Exchange Mercado Bitcoin. Os dados são oriundos do https://br.investing.com/crypto/bitcoin/btc-brl-historical-data. 
 
-Todos os gráficos foram gerados utilizando os microdados públicos dos casos notificados de covid-19 na Bahia, disponibilizado diariamente pela Secretaria de Saúde da Bahia - SESAB, no portal https://bi.saude.ba.gov.br/transparencia/ desde o dia 15 de julho de 2020. 
+# O que é Bitcoin?
+#### por Infomoney (07/08/2020)
+##### https://www.infomoney.com.br/cotacoes/bitcoin-btc/
 
-Os scripts, escritos na linguagem **R** e **Markdown** estão disponíveis no repositório: https://github.com/jonates/report_covid19_BA. Este repositório é público. O autor aguarda que surjam contribuições tanto de ajustes e melhorias nos scripts, quanto acréscimos de novas visualizações.
+**Sigla: BTC**
+**Tipo: Criptomoeda**
 
-Como qualquer conjunto de dados, existem erros em alguns registros do conjunto de dados, bem como valores ausentes. Assim, na ausência da data do início do sintoma foi considerado a data do exame, e, na ausência dessas 2 datas, foi considerada a data da notificação.
+O **Bitcoin** surgiu em 2008 como uma resposta à crise financeira, com a ideia de substituir o dinheiro físico que usamos e, principalmente, tirar a necessidade de intermediação dos bancos nas operações financeiras.
 
-A semana epidemiológica foi definida com a função EpiWeek da biblioteca Epitools.  
+A criptomoeda apareceu pela primeira vez em um artigo publicado por Satoshi Nakamoto, um pseudônimo que até hoje não se sabe se é uma pessoa ou um grupo de pessoas. O texto descrevia como funcionava esta moeda digital e criava o sistema que posteriormente passou a ser chamado de “blockchain”, que é como um livro-razão que registra todas as operações.
 
-Vale ressaltar que este arquivo parte de iniciativa acadêmica, passível de ajustes, e, não é documento oficial do Governo da Bahia.
+Seu uso foi pensado para ser exatamente uma moeda digital, usada para realizar compras e fazer transações de forma segura, anônima e com rapidez. Apesar disso, diante de sua forte volatilidade e aumento de valor, se tornou um investimento de alto risco, sendo considerados por muitos especialistas também uma reserva de valor, como o ouro.
+
+O **Bitcoin** usa um código complexo, que não pode ser alterado, e todas as transações são protegidas por criptografia. Cada transação é validada por um grupo de pessoas, chamadas de mineradores, por meio de computadores, que gravam estas operações na blockchain, garantindo a segurança de todo o sistema.
+
+É também por meio do processo de mineração que se criam novos bitcoins. Conforme os mineradores validam as operações, eles vão completando cada “bloco” do sistema (por isso o nome blockchain). A cada bloco terminado, eles ganham como recompensa frações de novos bitcoins, sendo que a cada 210 mil blocos esta recompensa cai pela metade, em um processo chamado de “halving”.
+
+No artigo de Nakamoto, foi estipulado que haverá no máximo 21 milhões de bitcoins em circulação. A expectativa é que o “halving” ocorra a cada quatro anos, o que leva a conclusão de que o Bitcoin deixará de ser minerado em 2140.
