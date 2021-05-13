@@ -1,0 +1,28 @@
+Pais;Nome_Regiao;Codigo_Regiao;Nome_UF;Codigo_UF;Sigla_UF
+Brasil;Norte;1;Rondônia;11;RO
+Brasil;Norte;1;Acre;12;AC
+Brasil;Norte;1;Amazonas;13;AM
+Brasil;Norte;1;Roraima;14;RR
+Brasil;Norte;1;Pará;15;PA
+Brasil;Norte;1;Amapá;16;AP
+Brasil;Norte;1;Tocantins;17;TO
+Brasil;Nordeste;2;Maranhão;21;MA
+Brasil;Nordeste;2;Piauí;22;PI
+Brasil;Nordeste;2;Ceará;23;CE
+Brasil;Nordeste;2;Rio Grande do Norte;24;RN
+Brasil;Nordeste;2;Paraíba;25;PB
+Brasil;Nordeste;2;Pernambuco;26;PE
+Brasil;Nordeste;2;Alagoas;27;AL
+Brasil;Nordeste;2;Sergipe;28;SE
+Brasil;Nordeste;2;Bahia;29;BA
+Brasil;Sudeste;3;Minas Gerais;31;MG
+Brasil;Sudeste;3;Espírito Santo;32;ES
+Brasil;Sudeste;3;Rio de Janeiro;33;RJ
+Brasil;Sudeste;3;São Paulo;35;SP
+Brasil;Sul;4;Paraná;41;PR
+Brasil;Sul;4;Santa Catarina;42;SC
+Brasil;Sul;4;Rio Grande do Sul;43;RS
+Brasil;Centro-Oeste;5;Mato Grosso do Sul;50;MS
+Brasil;Centro-Oeste;5;Mato Grosso;51;MT
+Brasil;Centro-Oeste;5;Goiás;52;GO
+Brasil;Centro-Oeste;5;Distrito Federal;53;DF
