@@ -1,0 +1,253 @@
+sigla_uf;nome_regiao;codigo_regiao;nome_uf;codigo_uf;latitude;longitude;ano;homicidios;tx_homicidios
+AC;Norte;1;Acre;12;-8,77;-70,55;2012;177;23,3
+AL;Nordeste;2;Alagoas;27;-9,62;-36,82;2012;2040;64,4
+AM;Norte;1;Amazonas;13;-3,47;-65,1;2012;1086;30,2
+AP;Norte;1;Amapá;16;1,41;-51,77;2012;164;23,5
+BA;Nordeste;2;Bahia;29;-13,29;-41,71;2012;5879;41,5
+CE;Nordeste;2;Ceará;23;-5,2;-39,53;2012;3569;41,5
+DF;Centro-Oeste;5;Distrito Federal;53;-15,83;-47,86;2012;819;30,9
+ES;Sudeste;3;Espírito Santo;32;-19,19;-40,34;2012;1660;46,4
+GO;Centro-Oeste;5;Goiás;52;-15,98;-49,86;2012;2426;39,4
+MA;Nordeste;2;Maranhão;21;-5,42;-45,44;2012;1498;22,3
+MG;Sudeste;3;Minas Gerais;31;-18,1;-44,38;2012;3924;19,8
+MS;Centro-Oeste;5;Mato Grosso do Sul;50;-20,51;-54,54;2012;568;22,7
+MT;Centro-Oeste;5;Mato Grosso;51;-12,64;-55,42;2012;948;30,4
+PA;Norte;1;Pará;15;-3,79;-52,48;2012;3051;39
+PB;Nordeste;2;Paraíba;25;-7,28;-36,72;2012;1515;39,7
+PE;Nordeste;2;Pernambuco;26;-8,38;-37,86;2012;3155;35,3
+PI;Nordeste;2;Piauí;22;-6,6;-42,28;2012;491;15,5
+PR;Sul;4;Paraná;41;-24,89;-51,55;2012;3135;29,6
+RJ;Sudeste;3;Rio de Janeiro;33;-22,25;-42,66;2012;4081;25,1
+RN;Nordeste;2;Rio Grande do Norte;24;-5,81;-36,59;2012;369;11,4
+RO;Norte;1;Rondônia;11;-10,83;-63,34;2012;484;30,4
+RR;Norte;1;Roraima;14;1,99;-61,33;2012;64;13,6
+RS;Sul;4;Rio Grande do Sul;43;-30,17;-53,5;2012;2076;19,3
+SC;Sul;4;Santa Catarina;42;-27,45;-50,95;2012;748;11,7
+SE;Nordeste;2;Sergipe;28;-10,57;-37,45;2012;803;38
+SP;Sudeste;3;São Paulo;35;-22,19;-48,79;2012;5209;12,4
+TO;Norte;1;Tocantins;17;-9,46;-48,26;2012;302;21,3
+BR;Todas;0;Todas;0;;;2012;50241;25,9
+AC;Norte;1;Acre;12;-8,77;-70,55;2013;198;25,5
+AL;Nordeste;2;Alagoas;27;-9,62;-36,82;2013;2152;65,2
+AM;Norte;1;Amazonas;13;-3,47;-65,1;2013;909;23,9
+AP;Norte;1;Amapá;16;1,41;-51,77;2013;225;30,6
+BA;Nordeste;2;Bahia;29;-13,29;-41,71;2013;5440;36,2
+CE;Nordeste;2;Ceará;23;-5,2;-39,53;2013;4209;47,9
+DF;Centro-Oeste;5;Distrito Federal;53;-15,83;-47,86;2013;707;25,3
+ES;Sudeste;3;Espírito Santo;32;-19,19;-40,34;2013;1564;40,7
+GO;Centro-Oeste;5;Goiás;52;-15,98;-49,86;2013;2583;40,1
+MA;Nordeste;2;Maranhão;21;-5,42;-45,44;2013;1595;23,5
+MG;Sudeste;3;Minas Gerais;31;-18,1;-44,38;2013;4095;19,9
+MS;Centro-Oeste;5;Mato Grosso do Sul;50;-20,51;-54,54;2013;535;20,7
+MT;Centro-Oeste;5;Mato Grosso;51;-12,64;-55,42;2013;1022;32,1
+PA;Norte;1;Pará;15;-3,79;-52,48;2013;3187;39,8
+PB;Nordeste;2;Paraíba;25;-7,28;-36,72;2013;1495;38,2
+PE;Nordeste;2;Pernambuco;26;-8,38;-37,86;2013;2941;31,9
+PI;Nordeste;2;Piauí;22;-6,6;-42,28;2013;506;15,9
+PR;Sul;4;Paraná;41;-24,89;-51,55;2013;2572;23,4
+RJ;Sudeste;3;Rio de Janeiro;33;-22,25;-42,66;2013;4745;29
+RN;Nordeste;2;Rio Grande do Norte;24;-5,81;-36,59;2013;1287;38,1
+RO;Norte;1;Rondônia;11;-10,83;-63,34;2013;470;27,2
+RR;Norte;1;Roraima;14;1,99;-61,33;2013;99;20,3
+RS;Sul;4;Rio Grande do Sul;43;-30,17;-53,5;2013;1914;17,1
+SC;Sul;4;Santa Catarina;42;-27,45;-50,95;2013;704;10,6
+SE;Nordeste;2;Sergipe;28;-10,57;-37,45;2013;880;40,1
+SP;Sudeste;3;São Paulo;35;-22,19;-48,79;2013;4739;10,9
+TO;Norte;1;Tocantins;17;-9,46;-48,26;2013;290;19,6
+BR;Todas;0;Todas;0;;;2013;51063;25,4
+AC;Norte;1;Acre;12;-8,77;-70,55;2014;195;24,7
+AL;Nordeste;2;Alagoas;27;-9,62;-36,82;2014;2057;61,9
+AM;Norte;1;Amazonas;13;-3,47;-65,1;2014;1108;28,6
+AP;Norte;1;Amapá;16;1,41;-51,77;2014;233;31
+BA;Nordeste;2;Bahia;29;-13,29;-41,71;2014;5764;38,1
+CE;Nordeste;2;Ceará;23;-5,2;-39,53;2014;4297;48,6
+DF;Centro-Oeste;5;Distrito Federal;53;-15,83;-47,86;2014;714;25
+ES;Sudeste;3;Espírito Santo;32;-19,19;-40,34;2014;1528;39,3
+GO;Centro-Oeste;5;Goiás;52;-15,98;-49,86;2014;2580;39,6
+MA;Nordeste;2;Maranhão;21;-5,42;-45,44;2014;1902;27,8
+MG;Sudeste;3;Minas Gerais;31;-18,1;-44,38;2014;4288;20,7
+MS;Centro-Oeste;5;Mato Grosso do Sul;50;-20,51;-54,54;2014;596;22,8
+MT;Centro-Oeste;5;Mato Grosso;51;-12,64;-55,42;2014;1314;40,8
+PA;Norte;1;Pará;15;-3,79;-52,48;2014;3257;40,2
+PB;Nordeste;2;Paraíba;25;-7,28;-36,72;2014;1489;37,8
+PE;Nordeste;2;Pernambuco;26;-8,38;-37,86;2014;3315;35,7
+PI;Nordeste;2;Piauí;22;-6,6;-42,28;2014;685;21,4
+PR;Sul;4;Paraná;41;-24,89;-51,55;2014;2515;22,7
+RJ;Sudeste;3;Rio de Janeiro;33;-22,25;-42,66;2014;4942;30
+RN;Nordeste;2;Rio Grande do Norte;24;-5,81;-36,59;2014;1557;45,7
+RO;Norte;1;Rondônia;11;-10,83;-63,34;2014;504;28,8
+RR;Norte;1;Roraima;14;1,99;-61,33;2014;72;14,5
+RS;Sul;4;Rio Grande do Sul;43;-30,17;-53,5;2014;2498;22,3
+SC;Sul;4;Santa Catarina;42;-27,45;-50,95;2014;760;11,3
+SE;Nordeste;2;Sergipe;28;-10,57;-37,45;2014;999;45
+SP;Sudeste;3;São Paulo;35;-22,19;-48,79;2014;4527;10,3
+TO;Norte;1;Tocantins;17;-9,46;-48,26;2014;327;21,8
+BR;Todas;0;Todas;0;;;2014;54023;26,6
+AC;Norte;1;Acre;12;-8,77;-70,55;2015;221;27,5
+AL;Nordeste;2;Alagoas;27;-9,62;-36,82;2015;1650;49,4
+AM;Norte;1;Amazonas;13;-3,47;-65,1;2015;1306;33,2
+AP;Norte;1;Amapá;16;1,41;-51,77;2015;205;26,7
+BA;Nordeste;2;Bahia;29;-13,29;-41,71;2015;5588;36,8
+CE;Nordeste;2;Ceará;23;-5,2;-39,53;2015;3948;44,3
+DF;Centro-Oeste;5;Distrito Federal;53;-15,83;-47,86;2015;631;21,6
+ES;Sudeste;3;Espírito Santo;32;-19,19;-40,34;2015;1384;35,2
+GO;Centro-Oeste;5;Goiás;52;-15,98;-49,86;2015;2731;41,3
+MA;Nordeste;2;Maranhão;21;-5,42;-45,44;2015;2007;29,1
+MG;Sudeste;3;Minas Gerais;31;-18,1;-44,38;2015;4176;20
+MS;Centro-Oeste;5;Mato Grosso do Sul;50;-20,51;-54,54;2015;558;21
+MT;Centro-Oeste;5;Mato Grosso;51;-12,64;-55,42;2015;1135;34,8
+PA;Norte;1;Pará;15;-3,79;-52,48;2015;3365;41
+PB;Nordeste;2;Paraíba;25;-7,28;-36,72;2015;1446;36,4
+PE;Nordeste;2;Pernambuco;26;-8,38;-37,86;2015;3750;40,1
+PI;Nordeste;2;Piauí;22;-6,6;-42,28;2015;615;19,2
+PR;Sul;4;Paraná;41;-24,89;-51,55;2015;2416;21,6
+RJ;Sudeste;3;Rio de Janeiro;33;-22,25;-42,66;2015;4200;25,4
+RN;Nordeste;2;Rio Grande do Norte;24;-5,81;-36,59;2015;1390;40,4
+RO;Norte;1;Rondônia;11;-10,83;-63,34;2015;523;29,6
+RR;Norte;1;Roraima;14;1,99;-61,33;2015;83;16,4
+RS;Sul;4;Rio Grande do Sul;43;-30,17;-53,5;2015;2624;23,3
+SC;Sul;4;Santa Catarina;42;-27,45;-50,95;2015;827;12,1
+SE;Nordeste;2;Sergipe;28;-10,57;-37,45;2015;1196;53,3
+SP;Sudeste;3;São Paulo;35;-22,19;-48,79;2015;3963;8,9
+TO;Norte;1;Tocantins;17;-9,46;-48,26;2015;369;24,4
+BR;Todas;0;Todas;0;;;2015;52307;25,6
+AC;Norte;1;Acre;12;-8,77;-70,55;2016;354;43,3
+AL;Nordeste;2;Alagoas;27;-9,62;-36,82;2016;1696;50,5
+AM;Norte;1;Amazonas;13;-3,47;-65,1;2016;1023;25,6
+AP;Norte;1;Amapá;16;1,41;-51,77;2016;307;39,2
+BA;Nordeste;2;Bahia;29;-13,29;-41,71;2016;6310;41,3
+CE;Nordeste;2;Ceará;23;-5,2;-39,53;2016;3331;37,2
+DF;Centro-Oeste;5;Distrito Federal;53;-15,83;-47,86;2016;603;20,3
+ES;Sudeste;3;Espírito Santo;32;-19,19;-40,34;2016;1181;29,7
+GO;Centro-Oeste;5;Goiás;52;-15,98;-49,86;2016;2576;38,5
+MA;Nordeste;2;Maranhão;21;-5,42;-45,44;2016;2071;29,8
+MG;Sudeste;3;Minas Gerais;31;-18,1;-44,38;2016;4194;20
+MS;Centro-Oeste;5;Mato Grosso do Sul;50;-20,51;-54,54;2016;574;21,4
+MT;Centro-Oeste;5;Mato Grosso;51;-12,64;-55,42;2016;1086;32,9
+PA;Norte;1;Pará;15;-3,79;-52,48;2016;3649;43,9
+PB;Nordeste;2;Paraíba;25;-7,28;-36,72;2016;1280;32
+PE;Nordeste;2;Pernambuco;26;-8,38;-37,86;2016;4277;45,5
+PI;Nordeste;2;Piauí;22;-6,6;-42,28;2016;642;20
+PR;Sul;4;Paraná;41;-24,89;-51,55;2016;2498;22,2
+RJ;Sudeste;3;Rio de Janeiro;33;-22,25;-42,66;2016;5042;30,3
+RN;Nordeste;2;Rio Grande do Norte;24;-5,81;-36,59;2016;1748;50,3
+RO;Norte;1;Rondônia;11;-10,83;-63,34;2016;545;30,5
+RR;Norte;1;Roraima;14;1,99;-61,33;2016;192;37,3
+RS;Sul;4;Rio Grande do Sul;43;-30,17;-53,5;2016;2856;25,3
+SC;Sul;4;Santa Catarina;42;-27,45;-50,95;2016;896;13
+SE;Nordeste;2;Sergipe;28;-10,57;-37,45;2016;1306;57,6
+SP;Sudeste;3;São Paulo;35;-22,19;-48,79;2016;3674;8,2
+TO;Norte;1;Tocantins;17;-9,46;-48,26;2016;427;27,9
+BR;Todas;0;Todas;0;;;2016;54338;26,4
+AC;Norte;1;Acre;12;-8,77;-70,55;2017;503;60,6
+AL;Nordeste;2;Alagoas;27;-9,62;-36,82;2017;1707;50,6
+AM;Norte;1;Amazonas;13;-3,47;-65,1;2017;1132;27,9
+AP;Norte;1;Amapá;16;1,41;-51,77;2017;352;44,1
+BA;Nordeste;2;Bahia;29;-13,29;-41,71;2017;6009;39,2
+CE;Nordeste;2;Ceará;23;-5,2;-39,53;2017;5042;55,9
+DF;Centro-Oeste;5;Distrito Federal;53;-15,83;-47,86;2017;508;16,7
+ES;Sudeste;3;Espírito Santo;32;-19,19;-40,34;2017;1407;35
+GO;Centro-Oeste;5;Goiás;52;-15,98;-49,86;2017;2255;33,3
+MA;Nordeste;2;Maranhão;21;-5,42;-45,44;2017;1820;26
+MG;Sudeste;3;Minas Gerais;31;-18,1;-44,38;2017;3966;18,8
+MS;Centro-Oeste;5;Mato Grosso do Sul;50;-20,51;-54,54;2017;530;19,5
+MT;Centro-Oeste;5;Mato Grosso;51;-12,64;-55,42;2017;985;29,5
+PA;Norte;1;Pará;15;-3,79;-52,48;2017;3877;46,3
+PB;Nordeste;2;Paraíba;25;-7,28;-36,72;2017;1242;30,9
+PE;Nordeste;2;Pernambuco;26;-8,38;-37,86;2017;5140;54,3
+PI;Nordeste;2;Piauí;22;-6,6;-42,28;2017;598;18,6
+PR;Sul;4;Paraná;41;-24,89;-51,55;2017;2187;19,3
+RJ;Sudeste;3;Rio de Janeiro;33;-22,25;-42,66;2017;5346;32
+RN;Nordeste;2;Rio Grande do Norte;24;-5,81;-36,59;2017;1863;53,1
+RO;Norte;1;Rondônia;11;-10,83;-63,34;2017;481;26,6
+RR;Norte;1;Roraima;14;1,99;-61,33;2017;190;36,4
+RS;Sul;4;Rio Grande do Sul;43;-30,17;-53,5;2017;2970;26,2
+SC;Sul;4;Santa Catarina;42;-27,45;-50,95;2017;987;14,1
+SE;Nordeste;2;Sergipe;28;-10,57;-37,45;2017;1121;49
+SP;Sudeste;3;São Paulo;35;-22,19;-48,79;2017;3504;7,8
+TO;Norte;1;Tocantins;17;-9,46;-48,26;2017;355;22,9
+BR;Todas;0;Todas;0;;;2017;56077;27
+AC;Norte;1;Acre;12;-8,77;-70,55;2018;397;45,7
+AL;Nordeste;2;Alagoas;27;-9,62;-36,82;2018;1309;39,4
+AM;Norte;1;Amazonas;13;-3,47;-65,1;2018;1101;27
+AP;Norte;1;Amapá;16;1,41;-51,77;2018;392;47,3
+BA;Nordeste;2;Bahia;29;-13,29;-41,71;2018;5349;36,1
+CE;Nordeste;2;Ceará;23;-5,2;-39,53;2018;4481;49,4
+DF;Centro-Oeste;5;Distrito Federal;53;-15,83;-47,86;2018;459;15,4
+ES;Sudeste;3;Espírito Santo;32;-19,19;-40,34;2018;1109;27,9
+GO;Centro-Oeste;5;Goiás;52;-15,98;-49,86;2018;2110;30,5
+MA;Nordeste;2;Maranhão;21;-5,42;-45,44;2018;1619;23
+MG;Sudeste;3;Minas Gerais;31;-18,1;-44,38;2018;3077;14,6
+MS;Centro-Oeste;5;Mato Grosso do Sul;50;-20,51;-54,54;2018;546;19,9
+MT;Centro-Oeste;5;Mato Grosso;51;-12,64;-55,42;2018;916;26,6
+PA;Norte;1;Pará;15;-3,79;-52,48;2018;3827;45
+PB;Nordeste;2;Paraíba;25;-7,28;-36,72;2018;1163;29,1
+PE;Nordeste;2;Pernambuco;26;-8,38;-37,86;2018;4027;42,4
+PI;Nordeste;2;Piauí;22;-6,6;-42,28;2018;567;17,4
+PR;Sul;4;Paraná;41;-24,89;-51,55;2018;1955;17,2
+RJ;Sudeste;3;Rio de Janeiro;33;-22,25;-42,66;2018;4950;28,8
+RN;Nordeste;2;Rio Grande do Norte;24;-5,81;-36,59;2018;1503;43,2
+RO;Norte;1;Rondônia;11;-10,83;-63,34;2018;419;23,8
+RR;Norte;1;Roraima;14;1,99;-61,33;2018;336;58,3
+RS;Sul;4;Rio Grande do Sul;43;-30,17;-53,5;2018;2362;20,8
+SC;Sul;4;Santa Catarina;42;-27,45;-50,95;2018;775;11
+SE;Nordeste;2;Sergipe;28;-10,57;-37,45;2018;948;41,6
+SP;Sudeste;3;São Paulo;35;-22,19;-48,79;2018;3106;6,8
+TO;Norte;1;Tocantins;17;-9,46;-48,26;2018;368;23,7
+BR;Todas;0;Todas;0;;;2018;49171;23,6
+AC;Norte;1;Acre;12;-8,77;-70,55;2019;281;31,9
+AL;Nordeste;2;Alagoas;27;-9,62;-36,82;2019;1068;32
+AM;Norte;1;Amazonas;13;-3,47;-65,1;2019;1014;24,5
+AP;Norte;1;Amapá;16;1,41;-51,77;2019;297;35,1
+BA;Nordeste;2;Bahia;29;-13,29;-41,71;2019;5013;33,7
+CE;Nordeste;2;Ceará;23;-5,2;-39,53;2019;2155;23,6
+DF;Centro-Oeste;5;Distrito Federal;53;-15,83;-47,86;2019;422;14
+ES;Sudeste;3;Espírito Santo;32;-19,19;-40,34;2019;987;24,6
+GO;Centro-Oeste;5;Goiás;52;-15,98;-49,86;2019;1623;23,1
+MA;Nordeste;2;Maranhão;21;-5,42;-45,44;2019;1401;19,8
+MG;Sudeste;3;Minas Gerais;31;-18,1;-44,38;2019;2722;12,9
+MS;Centro-Oeste;5;Mato Grosso do Sul;50;-20,51;-54,54;2019;456;16,4
+MT;Centro-Oeste;5;Mato Grosso;51;-12,64;-55,42;2019;842;24,2
+PA;Norte;1;Pará;15;-3,79;-52,48;2019;2764;32,1
+PB;Nordeste;2;Paraíba;25;-7,28;-36,72;2019;907;22,6
+PE;Nordeste;2;Pernambuco;26;-8,38;-37,86;2019;3257;34,1
+PI;Nordeste;2;Piauí;22;-6,6;-42,28;2019;539;16,5
+PR;Sul;4;Paraná;41;-24,89;-51,55;2019;1780;15,6
+RJ;Sudeste;3;Rio de Janeiro;33;-22,25;-42,66;2019;4004;23,2
+RN;Nordeste;2;Rio Grande do Norte;24;-5,81;-36,59;2019;1074;30,6
+RO;Norte;1;Rondônia;11;-10,83;-63,34;2019;362;20,4
+RR;Norte;1;Roraima;14;1,99;-61,33;2019;180;29,7
+RS;Sul;4;Rio Grande do Sul;43;-30,17;-53,5;2019;1815;16
+SC;Sul;4;Santa Catarina;42;-27,45;-50,95;2019;698;9,7
+SE;Nordeste;2;Sergipe;28;-10,57;-37,45;2019;772;33,6
+SP;Sudeste;3;São Paulo;35;-22,19;-48,79;2019;2906;6,3
+TO;Norte;1;Tocantins;17;-9,46;-48,26;2019;361;23
+BR;Todas;0;Todas;0;;;2019;39700;18,9
+AC;Norte;1;Acre;12;-8,77;-70,55;2020;280;31,3
+AL;Nordeste;2;Alagoas;27;-9,62;-36,82;2020;1218;36,3
+AM;Norte;1;Amazonas;13;-3,47;-65,1;2020;954;22,7
+AP;Norte;1;Amapá;16;1,41;-51,77;2020;226;26,2
+BA;Nordeste;2;Bahia;29;-13,29;-41,71;2020;5368;36
+CE;Nordeste;2;Ceará;23;-5,2;-39,53;2020;3934;42,8
+DF;Centro-Oeste;5;Distrito Federal;53;-15,83;-47,86;2020;384;12,6
+ES;Sudeste;3;Espírito Santo;32;-19,19;-40,34;2020;1103;27,1
+GO;Centro-Oeste;5;Goiás;52;-15,98;-49,86;2020;1468;20,6
+MA;Nordeste;2;Maranhão;21;-5,42;-45,44;2020;1859;26,1
+MG;Sudeste;3;Minas Gerais;31;-18,1;-44,38;2020;2550;12
+MS;Centro-Oeste;5;Mato Grosso do Sul;50;-20,51;-54,54;2020;467;16,6
+MT;Centro-Oeste;5;Mato Grosso;51;-12,64;-55,42;2020;810;23
+PA;Norte;1;Pará;15;-3,79;-52,48;2020;2176;25
+PB;Nordeste;2;Paraíba;25;-7,28;-36,72;2020;1132;28
+PE;Nordeste;2;Pernambuco;26;-8,38;-37,86;2020;3543;36,8
+PI;Nordeste;2;Piauí;22;-6,6;-42,28;2020;660;20,1
+PR;Sul;4;Paraná;41;-24,89;-51,55;2020;2008;17,4
+RJ;Sudeste;3;Rio de Janeiro;33;-22,25;-42,66;2020;3544;20,4
+RN;Nordeste;2;Rio Grande do Norte;24;-5,81;-36,59;2020;1224;34,6
+RO;Norte;1;Rondônia;11;-10,83;-63,34;2020;379;21,1
+RR;Norte;1;Roraima;14;1,99;-61,33;2020;147;23,3
+RS;Sul;4;Rio Grande do Sul;43;-30,17;-53,5;2020;1780;15,6
+SC;Sul;4;Santa Catarina;42;-27,45;-50,95;2020;689;9,5
+SE;Nordeste;2;Sergipe;28;-10,57;-37,45;2020;761;32,8
+SP;Sudeste;3;São Paulo;35;-22,19;-48,79;2020;3038;6,6
+TO;Norte;1;Tocantins;17;-9,46;-48,26;2020;403;25,3
+BR;Todas;0;Todas;0;;;2020;42105;19,9
