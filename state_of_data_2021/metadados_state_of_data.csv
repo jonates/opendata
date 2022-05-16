@@ -1,357 +1,357 @@
 ﻿nome_original;nome_atributo;rótulo_atributo
 ('P0', 'id');P0; id
-('P1_a ', 'Idade');P1_a ; Idade
-('P1_a_a ', 'Faixa idade');P1_a_a ; Faixa idade
-('P1_b ', 'Genero');P1_b ; Genero
-('P1_e ', 'Estado onde mora');P1_e ; Estado onde mora
-('P1_e_a ', 'uf onde mora');P1_e_a ; uf onde mora
-('P1_e_b ', 'Regiao onde mora');P1_e_b ; Regiao onde mora
-('P1_g_b ', 'Regiao de origem');P1_g_b ; Regiao de origem
-('P1_g_c ', 'Mudou de Estado?');P1_g_c ; Mudou de Estado?
-('P1_h ', 'Nivel de Ensino');P1_h ; Nivel de Ensino
-('P1_i ', 'Área de Formação');P1_i ; Área de Formação
-('P2_a ', 'Qual sua situação atual de trabalho?');P2_a ; Qual sua situação atual de trabalho?
-('P2_b ', 'Setor');P2_b ; Setor
-('P2_c ', 'Numero de Funcionarios');P2_c ; Numero de Funcionarios
-('P2_d ', 'Gestor?');P2_d ; Gestor?
-('P2_e ', 'Cargo como Gestor');P2_e ; Cargo como Gestor
-('P2_f ', 'Cargo Atual');P2_f ; Cargo Atual
-('P2_g ', 'Nivel');P2_g ; Nivel
-('P2_h ', 'Faixa salarial');P2_h ; Faixa salarial
-('P2_i ', 'Quanto tempo de experiência na área de dados você tem?');P2_i ; Quanto tempo de experiência na área de dados você tem?
-('P2_j ', 'Quanto tempo de experiência na área de TI/Engenharia de Software você teve antes de começar a trabalhar na área de dados?');P2_j ; Quanto tempo de experiência na área de TI/Engenharia de Software você teve
-('P2_k ', 'Você está satisfeito na sua empresa atual?');P2_k ; Você está satisfeito na sua empresa atual?
-('P2_l ', 'Qual o principal motivo da sua insatisfação com a empresa atual?');P2_l ; Qual o principal motivo da sua insatisfação com a empresa atual?
-('P2_l_a ', 'Falta de oportunidade de crescimento no emprego atual');P2_l_a ; Falta de oportunidade de crescimento no emprego atual
-('P2_l_b ', 'Salário atual não corresponde ao mercado');P2_l_b ; Salário atual não corresponde ao mercado
-('P2_l_c ', 'Não tenho uma boa relação com meu líder/gestor');P2_l_c ; Não tenho uma boa relação com meu líder/gestor
-('P2_l_d ', 'Gostaria de trabalhar em em outra área de atuação');P2_l_d ; Gostaria de trabalhar em em outra área de atuação
-('P2_l_e ', 'Gostaria de receber mais benefícios');P2_l_e ; Gostaria de receber mais benefícios
-('P2_l_f ', 'O clima de trabalho/ambiente não é bom');P2_l_f ; O clima de trabalho/ambiente não é bom
-('P2_l_g ', 'Falta de maturidade analítica na empresa');P2_l_g ; Falta de maturidade analítica na empresa
-('P2_m ', 'Você participou de entrevistas de emprego nos últimos 6 meses?');P2_m ; Você participou de entrevistas de emprego nos últimos 6 meses?
-('P2_n ', 'Você pretende mudar de emprego nos próximos 6 meses?');P2_n ; Você pretende mudar de emprego nos próximos 6 meses?
-('P2_o ', 'Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?');P2_o ; Quais os principais critérios que você leva em consideração no momento de
-('P2_o_a ', 'Remuneração/Salário');P2_o_a ; Remuneração/Salário
-('P2_o_b ', 'Benefícios');P2_o_b ; Benefícios
-('P2_o_c ', 'Propósito do trabalho e da empresa');P2_o_c ; Propósito do trabalho e da empresa
-('P2_o_d ', 'Flexibilidade de trabalho remoto');P2_o_d ; Flexibilidade de trabalho remoto
-('P2_o_e ', 'Ambiente e clima de trabalho');P2_o_e ; Ambiente e clima de trabalho
-('P2_o_f ', 'Oportunidade de aprendizado e trabalhar com referências na área');P2_o_f ; Oportunidade de aprendizado e trabalhar com referências na área
-('P2_o_g ', 'Plano de carreira e oportunidades de crescimento profissional');P2_o_g ; Plano de carreira e oportunidades de crescimento profissional
-('P2_o_h ', 'Maturidade da empresa em termos de tecnologia e dados');P2_o_h ; Maturidade da empresa em termos de tecnologia e dados
-('P2_o_i ', 'Qualidade dos gestores e líderes');P2_o_i ; Qualidade dos gestores e líderes
-('P2_o_j ', 'Reputação que a empresa tem no mercado');P2_o_j ; Reputação que a empresa tem no mercado
-('P2_q ', 'Atualmente qual a sua forma de trabalho?');P2_q ; Atualmente qual a sua forma de trabalho?
-('P2_r ', 'Qual a forma de trabalho ideal para você?');P2_r ; Qual a forma de trabalho ideal para você?
-('P2_s ', 'Caso sua empresa decida pelo modelo 100% presencial qual será sua atitude?');P2_s ; Caso sua empresa decida pelo modelo 100% presencial qual será sua atitude?
-('P3_a ', 'Qual o número aproximado de pessoas que atuam com dados na sua empresa hoje?');P3_a ; Qual o número aproximado de pessoas que atuam com dados na sua empresa hoj
-('P3_b ', 'Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?');P3_b ; Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da su
-('P3_b_a ', 'Analytics Engineer');P3_b_a ; Analytics Engineer
-('P3_b_b ', 'Engenharia de Dados/Data Engineer');P3_b_b ; Engenharia de Dados/Data Engineer
-('P3_b_c ', 'Analista de Dados/Data Analyst');P3_b_c ; Analista de Dados/Data Analyst
-('P3_b_d ', 'Cientista de Dados/Data Scientist');P3_b_d ; Cientista de Dados/Data Scientist
-('P3_b_e ', 'Database Administrator/DBA');P3_b_e ; Database Administrator/DBA
-('P3_b_f ', 'Analista de Business Intelligence/BI');P3_b_f ; Analista de Business Intelligence/BI
-('P3_b_g ', 'Arquiteto de Dados/Data Architect');P3_b_g ; Arquiteto de Dados/Data Architect
-('P3_b_h ', 'Data Product Manager/DPM');P3_b_h ; Data Product Manager/DPM
-('P3_b_i ', 'Business Analyst');P3_b_i ; Business Analyst
-('P3_c ', 'Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?');P3_c ; Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho
-('P3_c_a ', 'Pensar na visão de longo prazo de dados da empresa e fortalecimento da cultura analítica da companhia.');P3_c_a ; Pensar na visão de longo prazo de dados da empresa e fortalecimento da c
-('P3_c_b ', 'Organização de treinamentos e iniciativas com o objetivo de aumentar a maturidade analítica das áreas de negócios.');P3_c_b ; Organização de treinamentos e iniciativas com o objetivo de aumentar a m
-('P3_c_c ', 'Atração, seleção e contratação de talentos para o time de dados.');P3_c_c ; Atração, seleção e contratação de talentos para o time de dados.
-('P3_c_d ', 'Decisão sobre contratação de ferramentas e tecnologias relacionadas a dados.');P3_c_d ; Decisão sobre contratação de ferramentas e tecnologias relacionadas a da
-('P3_c_e ', 'Sou gestor da equipe responsável pela engenharia de dados e por manter o Data Lake da empresa como fonte única dos dados, garantindo a qualidade e confiabilidade da informação.');P3_c_e ; Sou gestor da equipe responsável pela engenharia de dados e por manter o
-('P3_c_f ', 'Sou gestor da equipe responsável pela entrega de dados, estudos, relatórios e dashboards para as áreas de negócio da empresa.');P3_c_f ; Sou gestor da equipe responsável pela entrega de dados, estudos, relatór
-('P3_c_g ', 'Sou gestor da equipe responsável por iniciativas e projetos envolvendo Inteligência Artificial e Machine Learning.');P3_c_g ; Sou gestor da equipe responsável por iniciativas e projetos envolvendo I
-('P3_c_h ', 'Apesar de ser gestor ainda atuo na parte técnica, construindo soluções/análises/modelos etc.');P3_c_h ; Apesar de ser gestor ainda atuo na parte técnica, construindo soluções/a
-('P3_c_i ', 'Gestão de projetos de dados, cuidando das etapas, equipes envolvidas, atingimento dos objetivos etc.');P3_c_i ; Gestão de projetos de dados, cuidando das etapas, equipes envolvidas, at
-('P3_c_j ', 'Gestão de produtos de dados, cuidando da visão dos produtos, backlog, feedback de usuários etc.');P3_c_j ; Gestão de produtos de dados, cuidando da visão dos produtos, backlog, fe
-('P3_c_k ', 'Gestão de pessoas, apoio no desenvolvimento das pessoas, evolução de carreira');P3_c_k ; Gestão de pessoas, apoio no desenvolvimento das pessoas, evolução de car
-('P3_d ', 'Quais são os 3 maiores desafios que você tem como gestor no atual momento?');P3_d ; Quais são os 3 maiores desafios que você tem como gestor no atual momento?
-('P3_d_ ', 'a Contratar novos talentos.');P3_d_ ; a Contratar novos talentos.
-('P3_d_ ', 'b Reter talentos.');P3_d_ ; b Reter talentos.
-('P3_d_ ', 'c Convencer a empresa a aumentar os investimentos na área de dados.');P3_d_ ; c Convencer a empresa a aumentar os investimentos na área de dados.
-('P3_d_ ', 'd Gestão de equipes no ambiente remoto.');P3_d_ ; d Gestão de equipes no ambiente remoto.
-('P3_d_ ', 'e Gestão de projetos envolvendo áreas multidisciplinares da empresa.');P3_d_ ; e Gestão de projetos envolvendo áreas multidisciplinares da empresa.
-('P3_d_ ', 'f Organizar as informações e garantir a qualidade e confiabilidade.');P3_d_ ; f Organizar as informações e garantir a qualidade e confiabilidade.
-('P3_d_ ', 'g Conseguir processar e armazenar um alto volume de dados.');P3_d_ ; g Conseguir processar e armazenar um alto volume de dados.
-('P3_d_ ', 'h Conseguir gerar valor para as áreas de negócios através de estudos e experimentos.');P3_d_ ; h Conseguir gerar valor para as áreas de negócios através de estudos e ex
-('P3_d_ ', 'i Desenvolver e manter modelos Machine Learning em produção.');P3_d_ ; i Desenvolver e manter modelos Machine Learning em produção.
-('P3_d_ ', 'j Gerenciar a expectativa das áreas de negócio em relação as entregas das equipes de dados.');P3_d_ ; j Gerenciar a expectativa das áreas de negócio em relação as entregas das
-('P3_d_ ', 'k Garantir a manutenção dos projetos e modelos em produção, em meio ao crescimento da empresa.');P3_d_ ; k Garantir a manutenção dos projetos e modelos em produção, em meio ao cr
-('P3_d_l ', 'Conseguir levar inovação para a empresa através dos dados.');P3_d_l ; Conseguir levar inovação para a empresa através dos dados.
-('P3_d_m ', 'Garantir retorno do investimento (ROI) em projetos de dados.');P3_d_m ; Garantir retorno do investimento (ROI) em projetos de dados.
-('P3_d_n ', 'Dividir o tempo entre entregas técnicas e gestão.');P3_d_n ; Dividir o tempo entre entregas técnicas e gestão.
-('P4_a_a ', 'Mesmo que esse não seja seu cargo formal, você considera que sua atuação no dia a dia, reflete alguma das opções listadas abaixo?');P4_a_a ; Mesmo que esse não seja seu cargo formal, você considera que sua atuação
-('P4_a ', 'Atuacao');P4_a ; Atuacao
-('P4_b ', 'Quais das fontes de dados listadas você já analisou ou processou no trabalho?');P4_b ; Quais das fontes de dados listadas você já analisou ou processou no trabal
-('P4_b_a ', 'Dados relacionais (estruturados em bancos SQL)');P4_b_a ; Dados relacionais (estruturados em bancos SQL)
-('P4_b_b ', 'Dados armazenados em bancos NoSQL');P4_b_b ; Dados armazenados em bancos NoSQL
-('P4_b_c ', 'Imagens');P4_b_c ; Imagens
-('P4_b_d ', 'Textos/Documentos');P4_b_d ; Textos/Documentos
-('P4_b_e ', 'Vídeos');P4_b_e ; Vídeos
-('P4_b_f ', 'Áudios');P4_b_f ; Áudios
-('P4_b_g ', 'Planilhas');P4_b_g ; Planilhas
-('P4_b_h ', 'Dados georeferenciados');P4_b_h ; Dados georeferenciados
-('P4_c ', 'Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?');P4_c ; Entre as fontes de dados listadas, quais você utiliza na maior parte do te
-('P4_c_a ', 'Dados relacionais (estruturados em bancos SQL)');P4_c_a ; Dados relacionais (estruturados em bancos SQL)
-('P4_c_b ', 'Dados armazenados em bancos NoSQL');P4_c_b ; Dados armazenados em bancos NoSQL
-('P4_c_c ', 'Imagens');P4_c_c ; Imagens
-('P4_c_d ', 'Textos/Documentos');P4_c_d ; Textos/Documentos
-('P4_c_e ', 'Vídeos');P4_c_e ; Vídeos
-('P4_c_f ', 'Áudios');P4_c_f ; Áudios
-('P4_c_g ', 'Planilhas');P4_c_g ; Planilhas
-('P4_c_h ', 'Dados georeferenciados');P4_c_h ; Dados georeferenciados
-('P4_d ', 'Quais das linguagens listadas abaixo você utiliza no trabalho?');P4_d ; Quais das linguagens listadas abaixo você utiliza no trabalho?
-('P4_d_a ', 'SQL');P4_d_a ; SQL
-('P4_d_b ', 'R ');P4_d_b ; R
-('P4_d_c ', 'Python');P4_d_c ; Python
-('P4_d_d ', 'C/C++/C#');P4_d_d ; C/C++/C#
-('P4_d_e ', '.NET');P4_d_e ; .NET
-('P4_d_f ', 'Java');P4_d_f ; Java
-('P4_d_g ', 'Julia');P4_d_g ; Julia
-('P4_d_h ', 'SAS/Stata');P4_d_h ; SAS/Stata
-('P4_d_i ', 'Visual Basic/VBA');P4_d_i ; Visual Basic/VBA
-('P4_d_j ', 'Scala');P4_d_j ; Scala
-('P4_d_k ', 'Matlab');P4_d_k ; Matlab
-('P4_d_l ', 'PHP');P4_d_l ; PHP
-('P4_d_m ', 'Javascript');P4_d_m ; Javascript
-('P4_d_n ', 'Não utilizo nenhuma linguagem');P4_d_n ; Não utilizo nenhuma linguagem
-('P4_e ', 'Entre as linguagens listadas abaixo, qual é a que você mais utiliza no trabalho?');P4_e ; Entre as linguagens listadas abaixo, qual é a que você mais utiliza no tra
-('P4_e_a ', 'SQL');P4_e_a ; SQL
-('P4_e_b ', 'R ');P4_e_b ; R
-('P4_e_c ', 'Python');P4_e_c ; Python
-('P4_e_d ', 'C/C++/C#');P4_e_d ; C/C++/C#
-('P4_e_e ', '.NET');P4_e_e ; .NET
-('P4_e_f ', 'Java');P4_e_f ; Java
-('P4_e_g ', 'Julia');P4_e_g ; Julia
-('P4_e_h ', 'SAS/Stata');P4_e_h ; SAS/Stata
-('P4_e_i ', 'Visual Basic/VBA');P4_e_i ; Visual Basic/VBA
-('P4_e_j ', 'Scala');P4_e_j ; Scala
-('P4_e_k ', 'Matlab');P4_e_k ; Matlab
-('P4_e_l ', 'PHP');P4_e_l ; PHP
-('P4_e_m ', 'Javascript');P4_e_m ; Javascript
-('P4_e_n ', 'Não utilizo nenhuma linguagem');P4_e_n ; Não utilizo nenhuma linguagem
-('P4_f ', 'Quais dos bancos de dados/fontes de dados listados abaixo você utiliza no trabalho?');P4_f ; Quais dos bancos de dados/fontes de dados listados abaixo você utiliza no
-('P4_f_a ', 'MySQL');P4_f_a ; MySQL
-('P4_f_b ', 'Oracle');P4_f_b ; Oracle
-('P4_f_c ', 'SQL SERVER');P4_f_c ; SQL SERVER
-('P4_f_d ', 'SAP');P4_f_d ; SAP
-('P4_f_e ', 'Amazon Aurora ou RDS');P4_f_e ; Amazon Aurora ou RDS
-('P4_f_f ', 'Amazon DynamoDB');P4_f_f ; Amazon DynamoDB
-('P4_f_g ', 'CoachDB');P4_f_g ; CoachDB
-('P4_f_h ', 'Cassandra');P4_f_h ; Cassandra
-('P4_f_i ', 'MongoDB');P4_f_i ; MongoDB
-('P4_f_j ', 'MariaDB');P4_f_j ; MariaDB
-('P4_f_k ', 'Datomic');P4_f_k ; Datomic
-('P4_f_l ', 'S3');P4_f_l ; S3
-('P4_f_m ', 'PostgreSQL');P4_f_m ; PostgreSQL
-('P4_f_n ', 'ElasticSearch');P4_f_n ; ElasticSearch
-('P4_f_o ', 'DB2');P4_f_o ; DB2
-('P4_f_p ', 'Microsoft Access');P4_f_p ; Microsoft Access
-('P4_f_q ', 'SQLite');P4_f_q ; SQLite
-('P4_f_r ', 'Sybase');P4_f_r ; Sybase
-('P4_f_s ', 'Firebase');P4_f_s ; Firebase
-('P4_f_t ', 'Vertica');P4_f_t ; Vertica
-('P4_f_u ', 'Redis');P4_f_u ; Redis
-('P4_f_v ', 'Neo4J');P4_f_v ; Neo4J
-('P4_f_x ', 'Google BigQuery');P4_f_x ; Google BigQuery
-('P4_f_y ', 'Google Firestore');P4_f_y ; Google Firestore
-('P4_f_z ', 'Amazon Redshift');P4_f_z ; Amazon Redshift
-('P4_f_z1 ', 'Amazon Athena');P4_f_z1 ; Amazon Athena
-('P4_f_z2 ', 'Snowflake');P4_f_z2 ; Snowflake
-('P4_f_z3 ', 'Databricks');P4_f_z3 ; Databricks
-('P4_f_z4 ', 'HBase');P4_f_z4 ; HBase
-('P4_f_z5 ', 'Presto');P4_f_z5 ; Presto
-('P4_f_z6 ', 'Splunk');P4_f_z6 ; Splunk
-('P4_f_z7 ', 'SAP HANA');P4_f_z7 ; SAP HANA
-('P4_f_z8 ', 'Hive');P4_f_z8 ; Hive
-('P4_f_z9 ', 'Firebird');P4_f_z9 ; Firebird
-('P4_g ', 'Quais das opções de Cloud listadas abaixo você utiliza no trabalho?');P4_g ; Quais das opções de Cloud listadas abaixo você utiliza no trabalho?
-('P4_g_a ', 'Amazon Web Services (AWS)');P4_g_a ; Amazon Web Services (AWS)
-('P4_g_b ', 'Google Cloud (GCP)');P4_g_b ; Google Cloud (GCP)
-('P4_g_c ', 'Azure (Microsoft)');P4_g_c ; Azure (Microsoft)
-('P4_g_d ', 'Oracle Cloud');P4_g_d ; Oracle Cloud
-('P4_g_e ', 'IBM');P4_g_e ; IBM
-('P4_g_f ', 'Servidores On Premise/Não utilizamos Cloud');P4_g_f ; Servidores On Premise/Não utilizamos Cloud
-('P4_g_g ', 'Cloud Própria');P4_g_g ; Cloud Própria
-('P4_h ', 'Quais as Ferramentas de Business Intelligence você utiliza no trabalho?');P4_h ; Quais as Ferramentas de Business Intelligence você utiliza no trabalho?
-('P4_h_a ', 'Microsoft PowerBI');P4_h_a ; Microsoft PowerBI
-('P4_h_b ', 'Qlik View/Qlik Sense');P4_h_b ; Qlik View/Qlik Sense
-('P4_h_c ', 'Tableau');P4_h_c ; Tableau
-('P4_h_d ', 'Metabase');P4_h_d ; Metabase
-('P4_h_e ', 'Superset');P4_h_e ; Superset
-('P4_h_f ', 'Redash');P4_h_f ; Redash
-('P4_h_g ', 'MicroStrategy');P4_h_g ; MicroStrategy
-('P4_h_h ', 'IBM Analytics/Cognos');P4_h_h ; IBM Analytics/Cognos
-('P4_h_i ', 'SAP Business Objects');P4_h_i ; SAP Business Objects
-('P4_h_j ', 'Oracle Business Intelligence');P4_h_j ; Oracle Business Intelligence
-('P4_h_k ', 'Amazon QuickSight');P4_h_k ; Amazon QuickSight
-('P4_h_l ', 'Salesforce/Einstein Analytics');P4_h_l ; Salesforce/Einstein Analytics
-('P4_h_m ', 'Mode');P4_h_m ; Mode
-('P4_h_n ', 'Alteryx');P4_h_n ; Alteryx
-('P4_h_o ', 'Birst');P4_h_o ; Birst
-('P4_h_p ', 'Looker');P4_h_p ; Looker
-('P4_h_q ', 'Google Data Studio');P4_h_q ; Google Data Studio
-('P4_h_r ', 'SAS Visual Analytics');P4_h_r ; SAS Visual Analytics
-('P4_h_s ', 'Grafana');P4_h_s ; Grafana
-('P4_h_t ', 'TIBCO Spotfire');P4_h_t ; TIBCO Spotfire
-('P4_h_u ', 'Pentaho');P4_h_u ; Pentaho
-('P4_h_v ', 'Fazemos todas as análises utilizando apenas Excel ou planilhas do google');P4_h_v ; Fazemos todas as análises utilizando apenas Excel ou planilhas do google
-('P4_h_x ', 'Não utilizo nenhuma ferramenta de BI no trabalho');P4_h_x ; Não utilizo nenhuma ferramenta de BI no trabalho
-('P5_b ', 'Qual oportunidade você está buscando?');P5_b ; Qual oportunidade você está buscando?
-('P5_c ', 'Há quanto tempo você busca uma oportunidade na área de dados?');P5_c ; Há quanto tempo você busca uma oportunidade na área de dados?
-('P5_d ', 'Como tem sido a busca por um emprego na área de dados?');P5_d ; Como tem sido a busca por um emprego na área de dados?
-('P6_a ', 'Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?');P6_a ; Quais das opções abaixo fazem parte da sua rotina no trabalho atual como e
-('P6_a_a ', 'Desenvolvo pipelines de dados utilizando linguagens de programação como Python, Scala, Java etc.');P6_a_a ; Desenvolvo pipelines de dados utilizando linguagens de programação como
-('P6_a_b ', 'Realizo construções de ETL's em ferramentas como Pentaho, Talend, Dataflow etc.');P6_a_b ; Realizo construções de ETLs em ferramentas como Pentaho, Talend, Dataflo
-('P6_a_c ', 'Crio consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.');P6_a_c ; Crio consultas através da linguagem SQL para exportar informações e comp
-('P6_a_d ', 'Atuo na integração de diferentes fontes de dados através de plataformas proprietárias como Stitch Data, Fivetran etc.');P6_a_d ; Atuo na integração de diferentes fontes de dados através de plataformas
-('P6_a_e ', 'Modelo soluções de arquitetura de dados, criando componentes de ingestão de dados, transformação e recuperação da informação.');P6_a_e ; Modelo soluções de arquitetura de dados, criando componentes de ingestão
-('P6_a_f ', 'Desenvolvo/cuido da manutenção de repositórios de dados baseados em streaming de eventos como Data Lakes e Data Lakehouses.');P6_a_f ; Desenvolvo/cuido da manutenção de repositórios de dados baseados em stre
-('P6_a_g ', 'Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts etc.');P6_a_g ; Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados
-('P6_a_h ', 'Cuido da qualidade dos dados, metadados e dicionário de dados.');P6_a_h ; Cuido da qualidade dos dados, metadados e dicionário de dados.
-('P6_a_i ', 'Nenhuma das opções listadas refletem meu dia a dia.');P6_a_i ; Nenhuma das opções listadas refletem meu dia a dia.
-('P6_b ', 'Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?');P6_b ; Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como
-('P6_b_a ', 'Scripts Python');P6_b_a ; Scripts Python
-('P6_b_b ', 'SQL & Stored Procedures');P6_b_b ; SQL & Stored Procedures
-('P6_b_c ', 'Apache Airflow');P6_b_c ; Apache Airflow
-('P6_b_d ', 'Luigi');P6_b_d ; Luigi
-('P6_b_e ', 'AWS Glue');P6_b_e ; AWS Glue
-('P6_b_f ', 'Talend');P6_b_f ; Talend
-('P6_b_g ', 'Stitch');P6_b_g ; Stitch
-('P6_b_h ', 'Fivetran');P6_b_h ; Fivetran
-('P6_b_i ', 'Google Dataflow');P6_b_i ; Google Dataflow
-('P6_b_j ', 'Oracle Data Integrator');P6_b_j ; Oracle Data Integrator
-('P6_b_k ', 'IBM DataStage');P6_b_k ; IBM DataStage
-('P6_b_l ', 'SAP BW ETL');P6_b_l ; SAP BW ETL
-('P6_b_m ', 'SQL Server Integration Services (SSIS)');P6_b_m ; SQL Server Integration Services (SSIS)
-('P6_b_n ', 'SAS Data Integration');P6_b_n ; SAS Data Integration
-('P6_b_o ', 'Qlik Sense');P6_b_o ; Qlik Sense
-('P6_b_p ', 'Knime');P6_b_p ; Knime
-('P6_b_q ', 'Não utilizo ferramentas de ETL');P6_b_q ; Não utilizo ferramentas de ETL
-('P6_c ', 'Sua organização possui um Data Lake?');P6_c ; Sua organização possui um Data Lake?
-('P6_d ', 'Qual tecnologia utilizada como plataforma do Data Lake?');P6_d ; Qual tecnologia utilizada como plataforma do Data Lake?
-('P6_e ', 'Sua organização possui um Data Warehouse?');P6_e ; Sua organização possui um Data Warehouse?
-('P6_f ', 'Qual tecnologia utilizada como plataforma do Data Warehouse?');P6_f ; Qual tecnologia utilizada como plataforma do Data Warehouse?
-('P6_g ', 'Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?');P6_g ; Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo
-('P6_g_a ', 'great_expectations');P6_g_a ; great_expectations
-('P6_g_b ', 'dbt');P6_g_b ; dbt
-('P6_g_c ', 'AWS Deequ');P6_g_c ; AWS Deequ
-('P6_g_d ', 'Apache Griffin');P6_g_d ; Apache Griffin
-('P6_g_e ', 'Datafold');P6_g_e ; Datafold
-('P6_g_f ', 'Amundsen');P6_g_f ; Amundsen
-('P6_g_g ', 'Monte Carlo');P6_g_g ; Monte Carlo
-('P6_g_h ', 'SODA');P6_g_h ; SODA
-('P6_g_i ', 'Big Eye');P6_g_i ; Big Eye
-('P6_g_j ', 'Data Band');P6_g_j ; Data Band
-('P6_g_k ', 'Anomalo');P6_g_k ; Anomalo
-('P6_g_l ', 'Metaplane');P6_g_l ; Metaplane
-('P6_g_m ', 'Acceldata');P6_g_m ; Acceldata
-('P6_h ', 'Em qual das opções abaixo você gasta a maior parte do seu tempo?');P6_h ; Em qual das opções abaixo você gasta a maior parte do seu tempo?
-('P6_h_a ', 'Desenvolvendo pipelines de dados utilizando linguagens de programação como Python, Scala, Java etc.');P6_h_a ; Desenvolvendo pipelines de dados utilizando linguagens de programação co
-('P6_h_b ', 'Realizando construções de ETL's em ferramentas como Pentaho, Talend, Dataflow etc.');P6_h_b ; Realizando construções de ETLs em ferramentas como Pentaho, Talend, Data
-('P6_h_c ', 'Criando consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.');P6_h_c ; Criando consultas através da linguagem SQL para exportar informações e c
-('P6_h_d ', 'Atuando na integração de diferentes fontes de dados através de plataformas proprietárias como Stitch Data, Fivetran etc.');P6_h_d ; Atuando na integração de diferentes fontes de dados através de plataform
-('P6_h_e ', 'Modelando soluções de arquitetura de dados, criando componentes de ingestão de dados, transformação e recuperação da informação.');P6_h_e ; Modelando soluções de arquitetura de dados, criando componentes de inges
-('P6_h_f ', 'Desenvolvendo/cuidando da manutenção de repositórios de dados baseados em streaming de eventos como Data Lakes e Data Lakehouses.');P6_h_f ; Desenvolvendo/cuidando da manutenção de repositórios de dados baseados e
-('P6_h_g ', 'Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts etc.');P6_h_g ; Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dad
-('P6_h_h ', 'Cuidando da qualidade dos dados, metadados e dicionário de dados.');P6_h_h ; Cuidando da qualidade dos dados, metadados e dicionário de dados.
-('P7_a ', 'Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?');P7_a ; Quais das opções abaixo fazem parte da sua rotina no trabalho atual com an
-('P7_a_a ', 'Processo e analiso dados utilizando linguagens de programação como Python, R etc.');P7_a_a ; Processo e analiso dados utilizando linguagens de programação como Pytho
-('P7_a_b ', 'Realizo construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik etc.');P7_a_b ; Realizo construções de dashboards em ferramentas de BI como PowerBI, Tab
-('P7_a_c ', 'Utilizo API's para extrair dados e complementar minhas análises.');P7_a_c ; Utilizo APIs para extrair dados e complementar minhas análises.
-('P7_a_d ', 'Realizo experimentos e estudos utilizando metodologias estatísticas como teste de hipótese, modelos de regressão etc.');P7_a_d ; Realizo experimentos e estudos utilizando metodologias estatísticas como
-('P7_a_e ', 'Desenvolvo/cuido da manutenção de ETL's utilizando tecnologias como Talend, Pentaho, Airflow, Dataflow etc.');P7_a_e ; Desenvolvo/cuido da manutenção de ETLs utilizando tecnologias como Talen
-('P7_a_f ', 'Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados, Data Warehouses, Data Marts etc.');P7_a_f ; Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados,
-('P7_a_g ', 'Desenvolvo/cuido da manutenção de planilhas para atender as áreas de negócio.');P7_a_g ; Desenvolvo/cuido da manutenção de planilhas para atender as áreas de neg
-('P7_a_h ', 'Utilizo ferramentas avançadas de estatística como SAS');P7_a_h ; Utilizo ferramentas avançadas de estatística como SAS
-('P7_b ', 'Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?');P7_b ; Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como
-('P7_b_a ', 'Scripts Python');P7_b_a ; Scripts Python
-('P7_b_b ', 'SQL & Stored Procedures');P7_b_b ; SQL & Stored Procedures
-('P7_b_c ', 'Apache Airflow');P7_b_c ; Apache Airflow
-('P7_b_d ', 'Luigi');P7_b_d ; Luigi
-('P7_b_e ', 'AWS Glue');P7_b_e ; AWS Glue
-('P7_b_f ', 'Talend');P7_b_f ; Talend
-('P7_b_g ', 'Stitch');P7_b_g ; Stitch
-('P7_b_h ', 'Fivetran');P7_b_h ; Fivetran
-('P7_b_i ', 'Google Dataflow');P7_b_i ; Google Dataflow
-('P7_b_j ', 'Oracle Data Integrator');P7_b_j ; Oracle Data Integrator
-('P7_b_k ', 'IBM DataStage');P7_b_k ; IBM DataStage
-('P7_b_l ', 'SAP BW ETL');P7_b_l ; SAP BW ETL
-('P7_b_m ', 'SQL Server Integration Services (SSIS)');P7_b_m ; SQL Server Integration Services (SSIS)
-('P7_b_n ', 'SAS Data Integration');P7_b_n ; SAS Data Integration
-('P7_b_o ', 'Qlik Sense');P7_b_o ; Qlik Sense
-('P7_b_p ', 'Knime');P7_b_p ; Knime
-('P7_b_q ', 'Não utilizo ferramentas de ETL');P7_b_q ; Não utilizo ferramentas de ETL
-('P7_c ', 'Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomia em análise de dados para as áreas de negócio?');P7_c ; Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomi
-('P7_c_a ', 'Ferramentas de AutoML como H2O.ai, Data Robot, BigML etc.');P7_c_a ; Ferramentas de AutoML como H2O.ai, Data Robot, BigML etc.
-"('P7_c_b ', '""""Point and Click"""" Analytics como Alteryx, Knime, Rapidminer etc.')";P7_c_b ;" """"Point and Click"""" Analytics como Alteryx, Knime, Rapidminer etc."
-('P7_c_c ', 'Product metricts & Insights como Mixpanel, Amplitude, Adobe Analytics.');P7_c_c ; Product metricts & Insights como Mixpanel, Amplitude, Adobe Analytics.
-('P7_c_d ', 'Ferramentas de análise dentro de ferramentas de CRM como Salesforce Einstein Anaytics ou Zendesk dashboards.');P7_c_d ; Ferramentas de análise dentro de ferramentas de CRM como Salesforce Eins
-('P7_c_e ', 'Minha empresa não utiliza essas ferramentas.');P7_c_e ; Minha empresa não utiliza essas ferramentas.
-('P7_c_f ', 'Não sei informar.');P7_c_f ; Não sei informar.
-('P7_d ', 'Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?');P7_d ; Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalh
-('P7_d_a ', 'Processando e analisando dados utilizando linguagens de programação como Python, R etc.');P7_d_a ; Processando e analisando dados utilizando linguagens de programação como
-('P7_d_b ', 'Realizando construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik etc.');P7_d_b ; Realizando construções de dashboards em ferramentas de BI como PowerBI,
-('P7_d_c ', 'Utilizando API's para extrair dados e complementar minhas análises.');P7_d_c ; Utilizando APIs para extrair dados e complementar minhas análises.
-('P7_d_d ', 'Realizando experimentos e estudos utilizando metodologias estatísticas como teste de hipótese, modelos de regressão etc.');P7_d_d ; Realizando experimentos e estudos utilizando metodologias estatísticas c
-('P7_d_e ', 'Desenvolvendo/cuidando da manutenção de ETL's utilizando tecnologias como Talend, Pentaho, Airflow, Dataflow etc.');P7_d_e ; Desenvolvendo/cuidando da manutenção de ETLs utilizando tecnologias como
-('P7_d_f ', 'Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dados, Data Warehouses, Data Marts etc.');P7_d_f ; Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dad
-('P7_d_g ', 'Desenvolvendo/cuidando da manutenção de planilhas do Excel ou Google Sheets para atender as áreas de negócio.');P7_d_g ; Desenvolvendo/cuidando da manutenção de planilhas do Excel ou Google She
-('P7_d_h ', 'Utilizando ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises.');P7_d_h ; Utilizando ferramentas avançadas de estatística como SAS, SPSS, Stata et
-('P8_a ', 'Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?');P8_a ; Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ci
-('P8_a_a ', 'Estudos Ad-hoc com o objetivo de confirmar hipóteses, realizar modelos preditivos, forecasts, análise de cluster para resolver problemas pontuais e responder perguntas das áreas de negócio.');P8_a_a ; Estudos Ad-hoc com o objetivo de confirmar hipóteses, realizar modelos p
-('P8_a_b ', 'Sou responsável pela coleta e limpeza dos dados que uso para análise e modelagem.');P8_a_b ; Sou responsável pela coleta e limpeza dos dados que uso para análise e m
-('P8_a_c ', 'Sou responsável por entrar em contato com os times de negócio para definição do problema, identificar a solução e apresentação de resultados.');P8_a_c ; Sou responsável por entrar em contato com os times de negócio para defin
-('P8_a_d ', 'Desenvolvo modelos de Machine Learning com o objetivo de colocar em produção em sistemas (produtos de dados).');P8_a_d ; Desenvolvo modelos de Machine Learning com o objetivo de colocar em prod
-('P8_a_e ', 'Sou responsável por colocar modelos em produção, criar os pipelines de dados, APIs de consumo e monitoramento.');P8_a_e ; Sou responsável por colocar modelos em produção, criar os pipelines de d
-('P8_a_f ', 'Cuido da manutenção de modelos de Machine Learning já em produção, atuando no monitoramento, ajustes e refatoração quando necessário.');P8_a_f ; Cuido da manutenção de modelos de Machine Learning já em produção, atuan
-('P8_a_g ', 'Realizo construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik, etc');P8_a_g ; Realizo construções de dashboards em ferramentas de BI como PowerBI, Tab
-('P8_a_h ', 'Utilizo ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises estatísticas e ajustar modelos.Crio e dou manutenção em ETLs, DAGs e automações de pipelines de dados.');P8_a_h ; Utilizo ferramentas avançadas de estatística como SAS, SPSS, Stata etc,
-('P8_a_j ', 'Sou responsável por criar e manter a infra que meus modelos e soluções rodam (clusters, servidores, API, containers, etc.)');P8_a_j ; Sou responsável por criar e manter a infra que meus modelos e soluções r
-('P8_b ', 'Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?');P8_b ; Quais as técnicas e métodos listados abaixo você costuma utilizar no traba
-('P8_b_a ', 'Utilizo modelos de regressão (linear, logística, GLM)');P8_b_a ; Utilizo modelos de regressão (linear, logística, GLM)
-('P8_b_b ', 'Utilizo redes neurais ou modelos baseados em árvore para criar modelos de classificação');P8_b_b ; Utilizo redes neurais ou modelos baseados em árvore para criar modelos d
-('P8_b_c ', 'Desenvolvo sistemas de recomendação (RecSys)');P8_b_c ; Desenvolvo sistemas de recomendação (RecSys)
-('P8_b_d ', 'Utilizo métodos estatísticos Bayesianos para analisar dados');P8_b_d ; Utilizo métodos estatísticos Bayesianos para analisar dados
-('P8_b_e ', 'Utilizo técnicas de NLP (Natural Language Processing) para análisar dados não-estruturados');P8_b_e ; Utilizo técnicas de NLP (Natural Language Processing) para análisar dado
-('P8_b_f ', 'Utilizo métodos estatísticos clássicos (Testes de hipótese, análise multivariada, sobrevivência, dados longitudinais, inferência estatistica) para analisar dados');P8_b_f ; Utilizo métodos estatísticos clássicos (Testes de hipótese, análise mult
-('P8_b_g ', 'Utilizo cadeias de Markov ou HMM's para realizar análises de dados');P8_b_g ; Utilizo cadeias de Markov ou HMMs para realizar análises de dados
-('P8_b_h ', 'Desenvolvo técnicas de Clusterização (K-means, Spectral, DBScan etc)');P8_b_h ; Desenvolvo técnicas de Clusterização (K-means, Spectral, DBScan etc)
-('P8_b_i ', 'Realizo previsões através de modelos de Séries Temporais (Time Series)');P8_b_i ; Realizo previsões através de modelos de Séries Temporais (Time Series)
-('P8_b_j ', 'Utilizo modelos de Reinforcement Learning (aprendizado por reforço)');P8_b_j ; Utilizo modelos de Reinforcement Learning (aprendizado por reforço)
-('P8_b_k ', 'Utilizo modelos de Machine Learning para detecção de fraude');P8_b_k ; Utilizo modelos de Machine Learning para detecção de fraude
-('P8_b_l ', 'Utilizo métodos de Visão Computacional');P8_b_l ; Utilizo métodos de Visão Computacional
-('P8_b_m ', 'Utilizo modelos de Detecção de Churn');P8_b_m ; Utilizo modelos de Detecção de Churn
-('P8_c ', 'Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?');P8_c ; Quais dessas tecnologias fazem parte do seu dia a dia como cientista de da
-('P8_c_a ', 'Ferramentas de BI (PowerBI, Looker, Tableau, Qlik etc)');P8_c_a ; Ferramentas de BI (PowerBI, Looker, Tableau, Qlik etc)
-('P8_c_b ', 'Planilhas (Excel, Google Sheets etc)');P8_c_b ; Planilhas (Excel, Google Sheets etc)
-('P8_c_c ', 'Ambientes de desenvolvimento local (R-studio, JupyterLab, Anaconda)');P8_c_c ; Ambientes de desenvolvimento local (R-studio, JupyterLab, Anaconda)
-('P8_c_d ', 'Ambientes de desenvolvimento na nuvem (Google Colab, AWS Sagemaker, Kaggle Notebooks etc)');P8_c_d ; Ambientes de desenvolvimento na nuvem (Google Colab, AWS Sagemaker, Kagg
-('P8_c_e ', 'Ferramentas de AutoML (Datarobot, H2O, Auto-Keras etc)');P8_c_e ; Ferramentas de AutoML (Datarobot, H2O, Auto-Keras etc)
-('P8_c_f ', 'Ferramentas de ETL (Apache Airflow, NiFi, Stitch, Fivetran, Pentaho etc)');P8_c_f ; Ferramentas de ETL (Apache Airflow, NiFi, Stitch, Fivetran, Pentaho etc)
-('P8_c_g ', 'Plataformas de Machine Learning (TensorFlow, Azure Machine Learning, Kubeflow etc)');P8_c_g ; Plataformas de Machine Learning (TensorFlow, Azure Machine Learning, Kub
-('P8_c_h ', 'Feature Store (Feast, Hopsworks, AWS Feature Store, Databricks Feature Store etc)');P8_c_h ; Feature Store (Feast, Hopsworks, AWS Feature Store, Databricks Feature S
-('P8_c_i ', 'Sistemas de controle de versão (Github, DVC, Neptune, Gitlab etc)');P8_c_i ; Sistemas de controle de versão (Github, DVC, Neptune, Gitlab etc)
-('P8_c_j ', 'Plataformas de Data Apps (Streamlit, Shiny, Plotly Dash etc)');P8_c_j ; Plataformas de Data Apps (Streamlit, Shiny, Plotly Dash etc)
-('P8_c_k ', 'Ferramentas de estatística avançada como SPSS, SAS, etc.');P8_c_k ; Ferramentas de estatística avançada como SPSS, SAS, etc.
-('P8_c_l ', 'Não utilizo nenhuma dessas ferramentas no meu dia a dia.');P8_c_l ; Não utilizo nenhuma dessas ferramentas no meu dia a dia.
-('P8_d ', 'Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?');P8_d ; Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalh
-('P8_d_a ', 'Coletando e limpando os dados que uso para análise e modelagem.');P8_d_a ; Coletando e limpando os dados que uso para análise e modelagem.
-('P8_d_b ', 'Entrando em contato com os times de negócio para definição do problema, identificar a solução e apresentação de resultados.');P8_d_b ; Entrando em contato com os times de negócio para definição do problema,
-('P8_d_c ', 'Desenvolvendo modelos de Machine Learning com o objetivo de colocar em produção em sistemas (produtos de dados).');P8_d_c ; Desenvolvendo modelos de Machine Learning com o objetivo de colocar em p
-('P8_d_d ', 'Colocando modelos em produção, criando os pipelines de dados, APIs de consumo e monitoramento.');P8_d_d ; Colocando modelos em produção, criando os pipelines de dados, APIs de co
-('P8_d_e ', 'Cuidando da manutenção de modelos de Machine Learning já em produção, atuando no monitoramento, ajustes e refatoração quando necessário.');P8_d_e ; Cuidando da manutenção de modelos de Machine Learning já em produção, at
-('P8_d_f ', 'Realizando construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik, etc.');P8_d_f ; Realizando construções de dashboards em ferramentas de BI como PowerBI,
-('P8_d_g ', 'Criando e dando manutenção em ETLs, DAGs e automações de pipelines de dados.');P8_d_g ; Criando e dando manutenção em ETLs, DAGs e automações de pipelines de da
-('P8_d_h ', 'Criando e gerenciando soluções de Feature Store e cultura de MLOps.');P8_d_h ; Criando e gerenciando soluções de Feature Store e cultura de MLOps.
-('P8_d_i ', 'Criando e mantendo a infra que meus modelos e soluções rodam (clusters, servidores, API, containers, etc.)');P8_d_i ; Criando e mantendo a infra que meus modelos e soluções rodam (clusters,
-('P9_a ', 'Quais das iniciativas do Data Hackers que você já acessou/acompanhou?');P9_a ; Quais das iniciativas do Data Hackers que você já acessou/acompanhou?
-('P9_a_a ', 'Blog/Medium do Data Hackers');P9_a_a ; Blog/Medium do Data Hackers
-('P9_a_b ', 'Podcast do Data Hackers');P9_a_b ; Podcast do Data Hackers
-('P9_a_d ', 'Newsletter Semanal');P9_a_d ; Newsletter Semanal
-('P9_a_e ', 'Canal do Slack');P9_a_e ; Canal do Slack
-('P9_a_f ', 'Canal do Youtube do Data Hackers');P9_a_f ; Canal do Youtube do Data Hackers
-('P9_a_g ', 'Ainda não conhecia o Data Hackers');P9_a_g ; Ainda não conhecia o Data Hackers
+('P1_a ', 'Idade');P1_a; Idade
+('P1_a_a ', 'Faixa idade');P1_a_a; Faixa idade
+('P1_b ', 'Genero');P1_b; Genero
+('P1_e ', 'Estado onde mora');P1_e; Estado onde mora
+('P1_e_a ', 'uf onde mora');P1_e_a; uf onde mora
+('P1_e_b ', 'Regiao onde mora');P1_e_b; Regiao onde mora
+('P1_g_b ', 'Regiao de origem');P1_g_b; Regiao de origem
+('P1_g_c ', 'Mudou de Estado?');P1_g_c; Mudou de Estado?
+('P1_h ', 'Nivel de Ensino');P1_h; Nivel de Ensino
+('P1_i ', 'Área de Formação');P1_i; Área de Formação
+('P2_a ', 'Qual sua situação atual de trabalho?');P2_a; Qual sua situação atual de trabalho?
+('P2_b ', 'Setor');P2_b; Setor
+('P2_c ', 'Numero de Funcionarios');P2_c; Numero de Funcionarios
+('P2_d ', 'Gestor?');P2_d; Gestor?
+('P2_e ', 'Cargo como Gestor');P2_e; Cargo como Gestor
+('P2_f ', 'Cargo Atual');P2_f; Cargo Atual
+('P2_g ', 'Nivel');P2_g; Nivel
+('P2_h ', 'Faixa salarial');P2_h; Faixa salarial
+('P2_i ', 'Quanto tempo de experiência na área de dados você tem?');P2_i; Quanto tempo de experiência na área de dados você tem?
+('P2_j ', 'Quanto tempo de experiência na área de TI/Engenharia de Software você teve antes de começar a trabalhar na área de dados?');P2_j; Quanto tempo de experiência na área de TI/Engenharia de Software você teve
+('P2_k ', 'Você está satisfeito na sua empresa atual?');P2_k; Você está satisfeito na sua empresa atual?
+('P2_l ', 'Qual o principal motivo da sua insatisfação com a empresa atual?');P2_l; Qual o principal motivo da sua insatisfação com a empresa atual?
+('P2_l_a ', 'Falta de oportunidade de crescimento no emprego atual');P2_l_a; Falta de oportunidade de crescimento no emprego atual
+('P2_l_b ', 'Salário atual não corresponde ao mercado');P2_l_b; Salário atual não corresponde ao mercado
+('P2_l_c ', 'Não tenho uma boa relação com meu líder/gestor');P2_l_c; Não tenho uma boa relação com meu líder/gestor
+('P2_l_d ', 'Gostaria de trabalhar em em outra área de atuação');P2_l_d; Gostaria de trabalhar em em outra área de atuação
+('P2_l_e ', 'Gostaria de receber mais benefícios');P2_l_e; Gostaria de receber mais benefícios
+('P2_l_f ', 'O clima de trabalho/ambiente não é bom');P2_l_f; O clima de trabalho/ambiente não é bom
+('P2_l_g ', 'Falta de maturidade analítica na empresa');P2_l_g; Falta de maturidade analítica na empresa
+('P2_m ', 'Você participou de entrevistas de emprego nos últimos 6 meses?');P2_m; Você participou de entrevistas de emprego nos últimos 6 meses?
+('P2_n ', 'Você pretende mudar de emprego nos próximos 6 meses?');P2_n; Você pretende mudar de emprego nos próximos 6 meses?
+('P2_o ', 'Quais os principais critérios que você leva em consideração no momento de decidir onde trabalhar?');P2_o; Quais os principais critérios que você leva em consideração no momento de
+('P2_o_a ', 'Remuneração/Salário');P2_o_a; Remuneração/Salário
+('P2_o_b ', 'Benefícios');P2_o_b; Benefícios
+('P2_o_c ', 'Propósito do trabalho e da empresa');P2_o_c; Propósito do trabalho e da empresa
+('P2_o_d ', 'Flexibilidade de trabalho remoto');P2_o_d; Flexibilidade de trabalho remoto
+('P2_o_e ', 'Ambiente e clima de trabalho');P2_o_e; Ambiente e clima de trabalho
+('P2_o_f ', 'Oportunidade de aprendizado e trabalhar com referências na área');P2_o_f; Oportunidade de aprendizado e trabalhar com referências na área
+('P2_o_g ', 'Plano de carreira e oportunidades de crescimento profissional');P2_o_g; Plano de carreira e oportunidades de crescimento profissional
+('P2_o_h ', 'Maturidade da empresa em termos de tecnologia e dados');P2_o_h; Maturidade da empresa em termos de tecnologia e dados
+('P2_o_i ', 'Qualidade dos gestores e líderes');P2_o_i; Qualidade dos gestores e líderes
+('P2_o_j ', 'Reputação que a empresa tem no mercado');P2_o_j; Reputação que a empresa tem no mercado
+('P2_q ', 'Atualmente qual a sua forma de trabalho?');P2_q; Atualmente qual a sua forma de trabalho?
+('P2_r ', 'Qual a forma de trabalho ideal para você?');P2_r; Qual a forma de trabalho ideal para você?
+('P2_s ', 'Caso sua empresa decida pelo modelo 100% presencial qual será sua atitude?');P2_s; Caso sua empresa decida pelo modelo 100% presencial qual será sua atitude?
+('P3_a ', 'Qual o número aproximado de pessoas que atuam com dados na sua empresa hoje?');P3_a; Qual o número aproximado de pessoas que atuam com dados na sua empresa hoj
+('P3_b ', 'Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?');P3_b; Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da su
+('P3_b_a ', 'Analytics Engineer');P3_b_a; Analytics Engineer
+('P3_b_b ', 'Engenharia de Dados/Data Engineer');P3_b_b; Engenharia de Dados/Data Engineer
+('P3_b_c ', 'Analista de Dados/Data Analyst');P3_b_c; Analista de Dados/Data Analyst
+('P3_b_d ', 'Cientista de Dados/Data Scientist');P3_b_d; Cientista de Dados/Data Scientist
+('P3_b_e ', 'Database Administrator/DBA');P3_b_e; Database Administrator/DBA
+('P3_b_f ', 'Analista de Business Intelligence/BI');P3_b_f; Analista de Business Intelligence/BI
+('P3_b_g ', 'Arquiteto de Dados/Data Architect');P3_b_g; Arquiteto de Dados/Data Architect
+('P3_b_h ', 'Data Product Manager/DPM');P3_b_h; Data Product Manager/DPM
+('P3_b_i ', 'Business Analyst');P3_b_i; Business Analyst
+('P3_c ', 'Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho como gestor?');P3_c; Quais dessas responsabilidades fazem parte da sua rotina atual de trabalho
+('P3_c_a ', 'Pensar na visão de longo prazo de dados da empresa e fortalecimento da cultura analítica da companhia.');P3_c_a; Pensar na visão de longo prazo de dados da empresa e fortalecimento da c
+('P3_c_b ', 'Organização de treinamentos e iniciativas com o objetivo de aumentar a maturidade analítica das áreas de negócios.');P3_c_b; Organização de treinamentos e iniciativas com o objetivo de aumentar a m
+('P3_c_c ', 'Atração, seleção e contratação de talentos para o time de dados.');P3_c_c; Atração, seleção e contratação de talentos para o time de dados.
+('P3_c_d ', 'Decisão sobre contratação de ferramentas e tecnologias relacionadas a dados.');P3_c_d; Decisão sobre contratação de ferramentas e tecnologias relacionadas a da
+('P3_c_e ', 'Sou gestor da equipe responsável pela engenharia de dados e por manter o Data Lake da empresa como fonte única dos dados, garantindo a qualidade e confiabilidade da informação.');P3_c_e; Sou gestor da equipe responsável pela engenharia de dados e por manter o
+('P3_c_f ', 'Sou gestor da equipe responsável pela entrega de dados, estudos, relatórios e dashboards para as áreas de negócio da empresa.');P3_c_f; Sou gestor da equipe responsável pela entrega de dados, estudos, relatór
+('P3_c_g ', 'Sou gestor da equipe responsável por iniciativas e projetos envolvendo Inteligência Artificial e Machine Learning.');P3_c_g; Sou gestor da equipe responsável por iniciativas e projetos envolvendo I
+('P3_c_h ', 'Apesar de ser gestor ainda atuo na parte técnica, construindo soluções/análises/modelos etc.');P3_c_h; Apesar de ser gestor ainda atuo na parte técnica, construindo soluções/a
+('P3_c_i ', 'Gestão de projetos de dados, cuidando das etapas, equipes envolvidas, atingimento dos objetivos etc.');P3_c_i; Gestão de projetos de dados, cuidando das etapas, equipes envolvidas, at
+('P3_c_j ', 'Gestão de produtos de dados, cuidando da visão dos produtos, backlog, feedback de usuários etc.');P3_c_j; Gestão de produtos de dados, cuidando da visão dos produtos, backlog, fe
+('P3_c_k ', 'Gestão de pessoas, apoio no desenvolvimento das pessoas, evolução de carreira');P3_c_k; Gestão de pessoas, apoio no desenvolvimento das pessoas, evolução de car
+('P3_d ', 'Quais são os 3 maiores desafios que você tem como gestor no atual momento?');P3_d; Quais são os 3 maiores desafios que você tem como gestor no atual momento?
+('P3_d_ ', 'a Contratar novos talentos.');P3_d_; a Contratar novos talentos.
+('P3_d_ ', 'b Reter talentos.');P3_d_; b Reter talentos.
+('P3_d_ ', 'c Convencer a empresa a aumentar os investimentos na área de dados.');P3_d_; c Convencer a empresa a aumentar os investimentos na área de dados.
+('P3_d_ ', 'd Gestão de equipes no ambiente remoto.');P3_d_; d Gestão de equipes no ambiente remoto.
+('P3_d_ ', 'e Gestão de projetos envolvendo áreas multidisciplinares da empresa.');P3_d_; e Gestão de projetos envolvendo áreas multidisciplinares da empresa.
+('P3_d_ ', 'f Organizar as informações e garantir a qualidade e confiabilidade.');P3_d_; f Organizar as informações e garantir a qualidade e confiabilidade.
+('P3_d_ ', 'g Conseguir processar e armazenar um alto volume de dados.');P3_d_; g Conseguir processar e armazenar um alto volume de dados.
+('P3_d_ ', 'h Conseguir gerar valor para as áreas de negócios através de estudos e experimentos.');P3_d_; h Conseguir gerar valor para as áreas de negócios através de estudos e ex
+('P3_d_ ', 'i Desenvolver e manter modelos Machine Learning em produção.');P3_d_; i Desenvolver e manter modelos Machine Learning em produção.
+('P3_d_ ', 'j Gerenciar a expectativa das áreas de negócio em relação as entregas das equipes de dados.');P3_d_; j Gerenciar a expectativa das áreas de negócio em relação as entregas das
+('P3_d_ ', 'k Garantir a manutenção dos projetos e modelos em produção, em meio ao crescimento da empresa.');P3_d_; k Garantir a manutenção dos projetos e modelos em produção, em meio ao cr
+('P3_d_l ', 'Conseguir levar inovação para a empresa através dos dados.');P3_d_l; Conseguir levar inovação para a empresa através dos dados.
+('P3_d_m ', 'Garantir retorno do investimento (ROI) em projetos de dados.');P3_d_m; Garantir retorno do investimento (ROI) em projetos de dados.
+('P3_d_n ', 'Dividir o tempo entre entregas técnicas e gestão.');P3_d_n; Dividir o tempo entre entregas técnicas e gestão.
+('P4_a_a ', 'Mesmo que esse não seja seu cargo formal, você considera que sua atuação no dia a dia, reflete alguma das opções listadas abaixo?');P4_a_a; Mesmo que esse não seja seu cargo formal, você considera que sua atuação
+('P4_a ', 'Atuacao');P4_a; Atuacao
+('P4_b ', 'Quais das fontes de dados listadas você já analisou ou processou no trabalho?');P4_b; Quais das fontes de dados listadas você já analisou ou processou no trabal
+('P4_b_a ', 'Dados relacionais (estruturados em bancos SQL)');P4_b_a; Dados relacionais (estruturados em bancos SQL)
+('P4_b_b ', 'Dados armazenados em bancos NoSQL');P4_b_b; Dados armazenados em bancos NoSQL
+('P4_b_c ', 'Imagens');P4_b_c; Imagens
+('P4_b_d ', 'Textos/Documentos');P4_b_d; Textos/Documentos
+('P4_b_e ', 'Vídeos');P4_b_e; Vídeos
+('P4_b_f ', 'Áudios');P4_b_f; Áudios
+('P4_b_g ', 'Planilhas');P4_b_g; Planilhas
+('P4_b_h ', 'Dados georeferenciados');P4_b_h; Dados georeferenciados
+('P4_c ', 'Entre as fontes de dados listadas, quais você utiliza na maior parte do tempo?');P4_c; Entre as fontes de dados listadas, quais você utiliza na maior parte do te
+('P4_c_a ', 'Dados relacionais (estruturados em bancos SQL)');P4_c_a; Dados relacionais (estruturados em bancos SQL)
+('P4_c_b ', 'Dados armazenados em bancos NoSQL');P4_c_b; Dados armazenados em bancos NoSQL
+('P4_c_c ', 'Imagens');P4_c_c; Imagens
+('P4_c_d ', 'Textos/Documentos');P4_c_d; Textos/Documentos
+('P4_c_e ', 'Vídeos');P4_c_e; Vídeos
+('P4_c_f ', 'Áudios');P4_c_f; Áudios
+('P4_c_g ', 'Planilhas');P4_c_g; Planilhas
+('P4_c_h ', 'Dados georeferenciados');P4_c_h; Dados georeferenciados
+('P4_d ', 'Quais das linguagens listadas abaixo você utiliza no trabalho?');P4_d; Quais das linguagens listadas abaixo você utiliza no trabalho?
+('P4_d_a ', 'SQL');P4_d_a; SQL
+('P4_d_b ', 'R ');P4_d_b; R
+('P4_d_c ', 'Python');P4_d_c; Python
+('P4_d_d ', 'C/C++/C#');P4_d_d; C/C++/C#
+('P4_d_e ', '.NET');P4_d_e; .NET
+('P4_d_f ', 'Java');P4_d_f; Java
+('P4_d_g ', 'Julia');P4_d_g; Julia
+('P4_d_h ', 'SAS/Stata');P4_d_h; SAS/Stata
+('P4_d_i ', 'Visual Basic/VBA');P4_d_i; Visual Basic/VBA
+('P4_d_j ', 'Scala');P4_d_j; Scala
+('P4_d_k ', 'Matlab');P4_d_k; Matlab
+('P4_d_l ', 'PHP');P4_d_l; PHP
+('P4_d_m ', 'Javascript');P4_d_m; Javascript
+('P4_d_n ', 'Não utilizo nenhuma linguagem');P4_d_n; Não utilizo nenhuma linguagem
+('P4_e ', 'Entre as linguagens listadas abaixo, qual é a que você mais utiliza no trabalho?');P4_e; Entre as linguagens listadas abaixo, qual é a que você mais utiliza no tra
+('P4_e_a ', 'SQL');P4_e_a; SQL
+('P4_e_b ', 'R ');P4_e_b; R
+('P4_e_c ', 'Python');P4_e_c; Python
+('P4_e_d ', 'C/C++/C#');P4_e_d; C/C++/C#
+('P4_e_e ', '.NET');P4_e_e; .NET
+('P4_e_f ', 'Java');P4_e_f; Java
+('P4_e_g ', 'Julia');P4_e_g; Julia
+('P4_e_h ', 'SAS/Stata');P4_e_h; SAS/Stata
+('P4_e_i ', 'Visual Basic/VBA');P4_e_i; Visual Basic/VBA
+('P4_e_j ', 'Scala');P4_e_j; Scala
+('P4_e_k ', 'Matlab');P4_e_k; Matlab
+('P4_e_l ', 'PHP');P4_e_l; PHP
+('P4_e_m ', 'Javascript');P4_e_m; Javascript
+('P4_e_n ', 'Não utilizo nenhuma linguagem');P4_e_n; Não utilizo nenhuma linguagem
+('P4_f ', 'Quais dos bancos de dados/fontes de dados listados abaixo você utiliza no trabalho?');P4_f; Quais dos bancos de dados/fontes de dados listados abaixo você utiliza no
+('P4_f_a ', 'MySQL');P4_f_a; MySQL
+('P4_f_b ', 'Oracle');P4_f_b; Oracle
+('P4_f_c ', 'SQL SERVER');P4_f_c; SQL SERVER
+('P4_f_d ', 'SAP');P4_f_d; SAP
+('P4_f_e ', 'Amazon Aurora ou RDS');P4_f_e; Amazon Aurora ou RDS
+('P4_f_f ', 'Amazon DynamoDB');P4_f_f; Amazon DynamoDB
+('P4_f_g ', 'CoachDB');P4_f_g; CoachDB
+('P4_f_h ', 'Cassandra');P4_f_h; Cassandra
+('P4_f_i ', 'MongoDB');P4_f_i; MongoDB
+('P4_f_j ', 'MariaDB');P4_f_j; MariaDB
+('P4_f_k ', 'Datomic');P4_f_k; Datomic
+('P4_f_l ', 'S3');P4_f_l; S3
+('P4_f_m ', 'PostgreSQL');P4_f_m; PostgreSQL
+('P4_f_n ', 'ElasticSearch');P4_f_n; ElasticSearch
+('P4_f_o ', 'DB2');P4_f_o; DB2
+('P4_f_p ', 'Microsoft Access');P4_f_p; Microsoft Access
+('P4_f_q ', 'SQLite');P4_f_q; SQLite
+('P4_f_r ', 'Sybase');P4_f_r; Sybase
+('P4_f_s ', 'Firebase');P4_f_s; Firebase
+('P4_f_t ', 'Vertica');P4_f_t; Vertica
+('P4_f_u ', 'Redis');P4_f_u; Redis
+('P4_f_v ', 'Neo4J');P4_f_v; Neo4J
+('P4_f_x ', 'Google BigQuery');P4_f_x; Google BigQuery
+('P4_f_y ', 'Google Firestore');P4_f_y; Google Firestore
+('P4_f_z ', 'Amazon Redshift');P4_f_z; Amazon Redshift
+('P4_f_z1 ', 'Amazon Athena');P4_f_z1; Amazon Athena
+('P4_f_z2 ', 'Snowflake');P4_f_z2; Snowflake
+('P4_f_z3 ', 'Databricks');P4_f_z3; Databricks
+('P4_f_z4 ', 'HBase');P4_f_z4; HBase
+('P4_f_z5 ', 'Presto');P4_f_z5; Presto
+('P4_f_z6 ', 'Splunk');P4_f_z6; Splunk
+('P4_f_z7 ', 'SAP HANA');P4_f_z7; SAP HANA
+('P4_f_z8 ', 'Hive');P4_f_z8; Hive
+('P4_f_z9 ', 'Firebird');P4_f_z9; Firebird
+('P4_g ', 'Quais das opções de Cloud listadas abaixo você utiliza no trabalho?');P4_g; Quais das opções de Cloud listadas abaixo você utiliza no trabalho?
+('P4_g_a ', 'Amazon Web Services (AWS)');P4_g_a; Amazon Web Services (AWS)
+('P4_g_b ', 'Google Cloud (GCP)');P4_g_b; Google Cloud (GCP)
+('P4_g_c ', 'Azure (Microsoft)');P4_g_c; Azure (Microsoft)
+('P4_g_d ', 'Oracle Cloud');P4_g_d; Oracle Cloud
+('P4_g_e ', 'IBM');P4_g_e; IBM
+('P4_g_f ', 'Servidores On Premise/Não utilizamos Cloud');P4_g_f; Servidores On Premise/Não utilizamos Cloud
+('P4_g_g ', 'Cloud Própria');P4_g_g; Cloud Própria
+('P4_h ', 'Quais as Ferramentas de Business Intelligence você utiliza no trabalho?');P4_h; Quais as Ferramentas de Business Intelligence você utiliza no trabalho?
+('P4_h_a ', 'Microsoft PowerBI');P4_h_a; Microsoft PowerBI
+('P4_h_b ', 'Qlik View/Qlik Sense');P4_h_b; Qlik View/Qlik Sense
+('P4_h_c ', 'Tableau');P4_h_c; Tableau
+('P4_h_d ', 'Metabase');P4_h_d; Metabase
+('P4_h_e ', 'Superset');P4_h_e; Superset
+('P4_h_f ', 'Redash');P4_h_f; Redash
+('P4_h_g ', 'MicroStrategy');P4_h_g; MicroStrategy
+('P4_h_h ', 'IBM Analytics/Cognos');P4_h_h; IBM Analytics/Cognos
+('P4_h_i ', 'SAP Business Objects');P4_h_i; SAP Business Objects
+('P4_h_j ', 'Oracle Business Intelligence');P4_h_j; Oracle Business Intelligence
+('P4_h_k ', 'Amazon QuickSight');P4_h_k; Amazon QuickSight
+('P4_h_l ', 'Salesforce/Einstein Analytics');P4_h_l; Salesforce/Einstein Analytics
+('P4_h_m ', 'Mode');P4_h_m; Mode
+('P4_h_n ', 'Alteryx');P4_h_n; Alteryx
+('P4_h_o ', 'Birst');P4_h_o; Birst
+('P4_h_p ', 'Looker');P4_h_p; Looker
+('P4_h_q ', 'Google Data Studio');P4_h_q; Google Data Studio
+('P4_h_r ', 'SAS Visual Analytics');P4_h_r; SAS Visual Analytics
+('P4_h_s ', 'Grafana');P4_h_s; Grafana
+('P4_h_t ', 'TIBCO Spotfire');P4_h_t; TIBCO Spotfire
+('P4_h_u ', 'Pentaho');P4_h_u; Pentaho
+('P4_h_v ', 'Fazemos todas as análises utilizando apenas Excel ou planilhas do google');P4_h_v; Fazemos todas as análises utilizando apenas Excel ou planilhas do google
+('P4_h_x ', 'Não utilizo nenhuma ferramenta de BI no trabalho');P4_h_x; Não utilizo nenhuma ferramenta de BI no trabalho
+('P5_b ', 'Qual oportunidade você está buscando?');P5_b; Qual oportunidade você está buscando?
+('P5_c ', 'Há quanto tempo você busca uma oportunidade na área de dados?');P5_c; Há quanto tempo você busca uma oportunidade na área de dados?
+('P5_d ', 'Como tem sido a busca por um emprego na área de dados?');P5_d; Como tem sido a busca por um emprego na área de dados?
+('P6_a ', 'Quais das opções abaixo fazem parte da sua rotina no trabalho atual como engenheiro de dados?');P6_a; Quais das opções abaixo fazem parte da sua rotina no trabalho atual como e
+('P6_a_a ', 'Desenvolvo pipelines de dados utilizando linguagens de programação como Python, Scala, Java etc.');P6_a_a; Desenvolvo pipelines de dados utilizando linguagens de programação como
+('P6_a_b ', 'Realizo construções de ETL's em ferramentas como Pentaho, Talend, Dataflow etc.');P6_a_b; Realizo construções de ETLs em ferramentas como Pentaho, Talend, Dataflo
+('P6_a_c ', 'Crio consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.');P6_a_c; Crio consultas através da linguagem SQL para exportar informações e comp
+('P6_a_d ', 'Atuo na integração de diferentes fontes de dados através de plataformas proprietárias como Stitch Data, Fivetran etc.');P6_a_d; Atuo na integração de diferentes fontes de dados através de plataformas
+('P6_a_e ', 'Modelo soluções de arquitetura de dados, criando componentes de ingestão de dados, transformação e recuperação da informação.');P6_a_e; Modelo soluções de arquitetura de dados, criando componentes de ingestão
+('P6_a_f ', 'Desenvolvo/cuido da manutenção de repositórios de dados baseados em streaming de eventos como Data Lakes e Data Lakehouses.');P6_a_f; Desenvolvo/cuido da manutenção de repositórios de dados baseados em stre
+('P6_a_g ', 'Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts etc.');P6_a_g; Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados
+('P6_a_h ', 'Cuido da qualidade dos dados, metadados e dicionário de dados.');P6_a_h; Cuido da qualidade dos dados, metadados e dicionário de dados.
+('P6_a_i ', 'Nenhuma das opções listadas refletem meu dia a dia.');P6_a_i; Nenhuma das opções listadas refletem meu dia a dia.
+('P6_b ', 'Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Engineer?');P6_b; Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como
+('P6_b_a ', 'Scripts Python');P6_b_a; Scripts Python
+('P6_b_b ', 'SQL & Stored Procedures');P6_b_b; SQL & Stored Procedures
+('P6_b_c ', 'Apache Airflow');P6_b_c; Apache Airflow
+('P6_b_d ', 'Luigi');P6_b_d; Luigi
+('P6_b_e ', 'AWS Glue');P6_b_e; AWS Glue
+('P6_b_f ', 'Talend');P6_b_f; Talend
+('P6_b_g ', 'Stitch');P6_b_g; Stitch
+('P6_b_h ', 'Fivetran');P6_b_h; Fivetran
+('P6_b_i ', 'Google Dataflow');P6_b_i; Google Dataflow
+('P6_b_j ', 'Oracle Data Integrator');P6_b_j; Oracle Data Integrator
+('P6_b_k ', 'IBM DataStage');P6_b_k; IBM DataStage
+('P6_b_l ', 'SAP BW ETL');P6_b_l; SAP BW ETL
+('P6_b_m ', 'SQL Server Integration Services (SSIS)');P6_b_m; SQL Server Integration Services (SSIS)
+('P6_b_n ', 'SAS Data Integration');P6_b_n; SAS Data Integration
+('P6_b_o ', 'Qlik Sense');P6_b_o; Qlik Sense
+('P6_b_p ', 'Knime');P6_b_p; Knime
+('P6_b_q ', 'Não utilizo ferramentas de ETL');P6_b_q; Não utilizo ferramentas de ETL
+('P6_c ', 'Sua organização possui um Data Lake?');P6_c; Sua organização possui um Data Lake?
+('P6_d ', 'Qual tecnologia utilizada como plataforma do Data Lake?');P6_d; Qual tecnologia utilizada como plataforma do Data Lake?
+('P6_e ', 'Sua organização possui um Data Warehouse?');P6_e; Sua organização possui um Data Warehouse?
+('P6_f ', 'Qual tecnologia utilizada como plataforma do Data Warehouse?');P6_f; Qual tecnologia utilizada como plataforma do Data Warehouse?
+('P6_g ', 'Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo de dados você utiliza no trabalho?');P6_g; Quais as ferramentas de gestão de Qualidade de dados, Metadados e catálogo
+('P6_g_a ', 'great_expectations');P6_g_a; great_expectations
+('P6_g_b ', 'dbt');P6_g_b; dbt
+('P6_g_c ', 'AWS Deequ');P6_g_c; AWS Deequ
+('P6_g_d ', 'Apache Griffin');P6_g_d; Apache Griffin
+('P6_g_e ', 'Datafold');P6_g_e; Datafold
+('P6_g_f ', 'Amundsen');P6_g_f; Amundsen
+('P6_g_g ', 'Monte Carlo');P6_g_g; Monte Carlo
+('P6_g_h ', 'SODA');P6_g_h; SODA
+('P6_g_i ', 'Big Eye');P6_g_i; Big Eye
+('P6_g_j ', 'Data Band');P6_g_j; Data Band
+('P6_g_k ', 'Anomalo');P6_g_k; Anomalo
+('P6_g_l ', 'Metaplane');P6_g_l; Metaplane
+('P6_g_m ', 'Acceldata');P6_g_m; Acceldata
+('P6_h ', 'Em qual das opções abaixo você gasta a maior parte do seu tempo?');P6_h; Em qual das opções abaixo você gasta a maior parte do seu tempo?
+('P6_h_a ', 'Desenvolvendo pipelines de dados utilizando linguagens de programação como Python, Scala, Java etc.');P6_h_a; Desenvolvendo pipelines de dados utilizando linguagens de programação co
+('P6_h_b ', 'Realizando construções de ETL's em ferramentas como Pentaho, Talend, Dataflow etc.');P6_h_b; Realizando construções de ETLs em ferramentas como Pentaho, Talend, Data
+('P6_h_c ', 'Criando consultas através da linguagem SQL para exportar informações e compartilhar com as áreas de negócio.');P6_h_c; Criando consultas através da linguagem SQL para exportar informações e c
+('P6_h_d ', 'Atuando na integração de diferentes fontes de dados através de plataformas proprietárias como Stitch Data, Fivetran etc.');P6_h_d; Atuando na integração de diferentes fontes de dados através de plataform
+('P6_h_e ', 'Modelando soluções de arquitetura de dados, criando componentes de ingestão de dados, transformação e recuperação da informação.');P6_h_e; Modelando soluções de arquitetura de dados, criando componentes de inges
+('P6_h_f ', 'Desenvolvendo/cuidando da manutenção de repositórios de dados baseados em streaming de eventos como Data Lakes e Data Lakehouses.');P6_h_f; Desenvolvendo/cuidando da manutenção de repositórios de dados baseados e
+('P6_h_g ', 'Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dados como Data Warehouses, Data Marts etc.');P6_h_g; Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dad
+('P6_h_h ', 'Cuidando da qualidade dos dados, metadados e dicionário de dados.');P6_h_h; Cuidando da qualidade dos dados, metadados e dicionário de dados.
+('P7_a ', 'Quais das opções abaixo fazem parte da sua rotina no trabalho atual com análise de dados?');P7_a; Quais das opções abaixo fazem parte da sua rotina no trabalho atual com an
+('P7_a_a ', 'Processo e analiso dados utilizando linguagens de programação como Python, R etc.');P7_a_a; Processo e analiso dados utilizando linguagens de programação como Pytho
+('P7_a_b ', 'Realizo construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik etc.');P7_a_b; Realizo construções de dashboards em ferramentas de BI como PowerBI, Tab
+('P7_a_c ', 'Utilizo API's para extrair dados e complementar minhas análises.');P7_a_c; Utilizo APIs para extrair dados e complementar minhas análises.
+('P7_a_d ', 'Realizo experimentos e estudos utilizando metodologias estatísticas como teste de hipótese, modelos de regressão etc.');P7_a_d; Realizo experimentos e estudos utilizando metodologias estatísticas como
+('P7_a_e ', 'Desenvolvo/cuido da manutenção de ETL's utilizando tecnologias como Talend, Pentaho, Airflow, Dataflow etc.');P7_a_e; Desenvolvo/cuido da manutenção de ETLs utilizando tecnologias como Talen
+('P7_a_f ', 'Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados, Data Warehouses, Data Marts etc.');P7_a_f; Atuo na modelagem dos dados, com o objetivo de criar conjuntos de dados,
+('P7_a_g ', 'Desenvolvo/cuido da manutenção de planilhas para atender as áreas de negócio.');P7_a_g; Desenvolvo/cuido da manutenção de planilhas para atender as áreas de neg
+('P7_a_h ', 'Utilizo ferramentas avançadas de estatística como SAS');P7_a_h; Utilizo ferramentas avançadas de estatística como SAS
+('P7_b ', 'Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como Data Analyst?');P7_b; Quais as ferramentas/tecnologias de ETL que você utiliza no trabalho como
+('P7_b_a ', 'Scripts Python');P7_b_a; Scripts Python
+('P7_b_b ', 'SQL & Stored Procedures');P7_b_b; SQL & Stored Procedures
+('P7_b_c ', 'Apache Airflow');P7_b_c; Apache Airflow
+('P7_b_d ', 'Luigi');P7_b_d; Luigi
+('P7_b_e ', 'AWS Glue');P7_b_e; AWS Glue
+('P7_b_f ', 'Talend');P7_b_f; Talend
+('P7_b_g ', 'Stitch');P7_b_g; Stitch
+('P7_b_h ', 'Fivetran');P7_b_h; Fivetran
+('P7_b_i ', 'Google Dataflow');P7_b_i; Google Dataflow
+('P7_b_j ', 'Oracle Data Integrator');P7_b_j; Oracle Data Integrator
+('P7_b_k ', 'IBM DataStage');P7_b_k; IBM DataStage
+('P7_b_l ', 'SAP BW ETL');P7_b_l; SAP BW ETL
+('P7_b_m ', 'SQL Server Integration Services (SSIS)');P7_b_m; SQL Server Integration Services (SSIS)
+('P7_b_n ', 'SAS Data Integration');P7_b_n; SAS Data Integration
+('P7_b_o ', 'Qlik Sense');P7_b_o; Qlik Sense
+('P7_b_p ', 'Knime');P7_b_p; Knime
+('P7_b_q ', 'Não utilizo ferramentas de ETL');P7_b_q; Não utilizo ferramentas de ETL
+('P7_c ', 'Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomia em análise de dados para as áreas de negócio?');P7_c; Sua empresa utiliza alguma das ferramentas listadas para dar mais autonomi
+('P7_c_a ', 'Ferramentas de AutoML como H2O.ai, Data Robot, BigML etc.');P7_c_a; Ferramentas de AutoML como H2O.ai, Data Robot, BigML etc.
+"('P7_c_b ', '""""Point and Click"""" Analytics como Alteryx, Knime, Rapidminer etc.')";P7_c_b;" """"Point and Click"""" Analytics como Alteryx, Knime, Rapidminer etc."
+('P7_c_c ', 'Product metricts & Insights como Mixpanel, Amplitude, Adobe Analytics.');P7_c_c; Product metricts & Insights como Mixpanel, Amplitude, Adobe Analytics.
+('P7_c_d ', 'Ferramentas de análise dentro de ferramentas de CRM como Salesforce Einstein Anaytics ou Zendesk dashboards.');P7_c_d; Ferramentas de análise dentro de ferramentas de CRM como Salesforce Eins
+('P7_c_e ', 'Minha empresa não utiliza essas ferramentas.');P7_c_e; Minha empresa não utiliza essas ferramentas.
+('P7_c_f ', 'Não sei informar.');P7_c_f; Não sei informar.
+('P7_d ', 'Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalho?');P7_d; Em qual das opções abaixo você gasta a maior parte do seu tempo de trabalh
+('P7_d_a ', 'Processando e analisando dados utilizando linguagens de programação como Python, R etc.');P7_d_a; Processando e analisando dados utilizando linguagens de programação como
+('P7_d_b ', 'Realizando construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik etc.');P7_d_b; Realizando construções de dashboards em ferramentas de BI como PowerBI,
+('P7_d_c ', 'Utilizando API's para extrair dados e complementar minhas análises.');P7_d_c; Utilizando APIs para extrair dados e complementar minhas análises.
+('P7_d_d ', 'Realizando experimentos e estudos utilizando metodologias estatísticas como teste de hipótese, modelos de regressão etc.');P7_d_d; Realizando experimentos e estudos utilizando metodologias estatísticas c
+('P7_d_e ', 'Desenvolvendo/cuidando da manutenção de ETL's utilizando tecnologias como Talend, Pentaho, Airflow, Dataflow etc.');P7_d_e; Desenvolvendo/cuidando da manutenção de ETLs utilizando tecnologias como
+('P7_d_f ', 'Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dados, Data Warehouses, Data Marts etc.');P7_d_f; Atuando na modelagem dos dados, com o objetivo de criar conjuntos de dad
+('P7_d_g ', 'Desenvolvendo/cuidando da manutenção de planilhas do Excel ou Google Sheets para atender as áreas de negócio.');P7_d_g; Desenvolvendo/cuidando da manutenção de planilhas do Excel ou Google She
+('P7_d_h ', 'Utilizando ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises.');P7_d_h; Utilizando ferramentas avançadas de estatística como SAS, SPSS, Stata et
+('P8_a ', 'Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ciência de dados?');P8_a; Quais das opções abaixo fazem parte da sua rotina no trabalho atual com ci
+('P8_a_a ', 'Estudos Ad-hoc com o objetivo de confirmar hipóteses, realizar modelos preditivos, forecasts, análise de cluster para resolver problemas pontuais e responder perguntas das áreas de negócio.');P8_a_a; Estudos Ad-hoc com o objetivo de confirmar hipóteses, realizar modelos p
+('P8_a_b ', 'Sou responsável pela coleta e limpeza dos dados que uso para análise e modelagem.');P8_a_b; Sou responsável pela coleta e limpeza dos dados que uso para análise e m
+('P8_a_c ', 'Sou responsável por entrar em contato com os times de negócio para definição do problema, identificar a solução e apresentação de resultados.');P8_a_c; Sou responsável por entrar em contato com os times de negócio para defin
+('P8_a_d ', 'Desenvolvo modelos de Machine Learning com o objetivo de colocar em produção em sistemas (produtos de dados).');P8_a_d; Desenvolvo modelos de Machine Learning com o objetivo de colocar em prod
+('P8_a_e ', 'Sou responsável por colocar modelos em produção, criar os pipelines de dados, APIs de consumo e monitoramento.');P8_a_e; Sou responsável por colocar modelos em produção, criar os pipelines de d
+('P8_a_f ', 'Cuido da manutenção de modelos de Machine Learning já em produção, atuando no monitoramento, ajustes e refatoração quando necessário.');P8_a_f; Cuido da manutenção de modelos de Machine Learning já em produção, atuan
+('P8_a_g ', 'Realizo construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik, etc');P8_a_g; Realizo construções de dashboards em ferramentas de BI como PowerBI, Tab
+('P8_a_h ', 'Utilizo ferramentas avançadas de estatística como SAS, SPSS, Stata etc, para realizar análises estatísticas e ajustar modelos.Crio e dou manutenção em ETLs, DAGs e automações de pipelines de dados.');P8_a_h; Utilizo ferramentas avançadas de estatística como SAS, SPSS, Stata etc,
+('P8_a_j ', 'Sou responsável por criar e manter a infra que meus modelos e soluções rodam (clusters, servidores, API, containers, etc.)');P8_a_j; Sou responsável por criar e manter a infra que meus modelos e soluções r
+('P8_b ', 'Quais as técnicas e métodos listados abaixo você costuma utilizar no trabalho?');P8_b; Quais as técnicas e métodos listados abaixo você costuma utilizar no traba
+('P8_b_a ', 'Utilizo modelos de regressão (linear, logística, GLM)');P8_b_a; Utilizo modelos de regressão (linear, logística, GLM)
+('P8_b_b ', 'Utilizo redes neurais ou modelos baseados em árvore para criar modelos de classificação');P8_b_b; Utilizo redes neurais ou modelos baseados em árvore para criar modelos d
+('P8_b_c ', 'Desenvolvo sistemas de recomendação (RecSys)');P8_b_c; Desenvolvo sistemas de recomendação (RecSys)
+('P8_b_d ', 'Utilizo métodos estatísticos Bayesianos para analisar dados');P8_b_d; Utilizo métodos estatísticos Bayesianos para analisar dados
+('P8_b_e ', 'Utilizo técnicas de NLP (Natural Language Processing) para análisar dados não-estruturados');P8_b_e; Utilizo técnicas de NLP (Natural Language Processing) para análisar dado
+('P8_b_f ', 'Utilizo métodos estatísticos clássicos (Testes de hipótese, análise multivariada, sobrevivência, dados longitudinais, inferência estatistica) para analisar dados');P8_b_f; Utilizo métodos estatísticos clássicos (Testes de hipótese, análise mult
+('P8_b_g ', 'Utilizo cadeias de Markov ou HMM's para realizar análises de dados');P8_b_g; Utilizo cadeias de Markov ou HMMs para realizar análises de dados
+('P8_b_h ', 'Desenvolvo técnicas de Clusterização (K-means, Spectral, DBScan etc)');P8_b_h; Desenvolvo técnicas de Clusterização (K-means, Spectral, DBScan etc)
+('P8_b_i ', 'Realizo previsões através de modelos de Séries Temporais (Time Series)');P8_b_i; Realizo previsões através de modelos de Séries Temporais (Time Series)
+('P8_b_j ', 'Utilizo modelos de Reinforcement Learning (aprendizado por reforço)');P8_b_j; Utilizo modelos de Reinforcement Learning (aprendizado por reforço)
+('P8_b_k ', 'Utilizo modelos de Machine Learning para detecção de fraude');P8_b_k; Utilizo modelos de Machine Learning para detecção de fraude
+('P8_b_l ', 'Utilizo métodos de Visão Computacional');P8_b_l; Utilizo métodos de Visão Computacional
+('P8_b_m ', 'Utilizo modelos de Detecção de Churn');P8_b_m; Utilizo modelos de Detecção de Churn
+('P8_c ', 'Quais dessas tecnologias fazem parte do seu dia a dia como cientista de dados?');P8_c; Quais dessas tecnologias fazem parte do seu dia a dia como cientista de da
+('P8_c_a ', 'Ferramentas de BI (PowerBI, Looker, Tableau, Qlik etc)');P8_c_a; Ferramentas de BI (PowerBI, Looker, Tableau, Qlik etc)
+('P8_c_b ', 'Planilhas (Excel, Google Sheets etc)');P8_c_b; Planilhas (Excel, Google Sheets etc)
+('P8_c_c ', 'Ambientes de desenvolvimento local (R-studio, JupyterLab, Anaconda)');P8_c_c; Ambientes de desenvolvimento local (R-studio, JupyterLab, Anaconda)
+('P8_c_d ', 'Ambientes de desenvolvimento na nuvem (Google Colab, AWS Sagemaker, Kaggle Notebooks etc)');P8_c_d; Ambientes de desenvolvimento na nuvem (Google Colab, AWS Sagemaker, Kagg
+('P8_c_e ', 'Ferramentas de AutoML (Datarobot, H2O, Auto-Keras etc)');P8_c_e; Ferramentas de AutoML (Datarobot, H2O, Auto-Keras etc)
+('P8_c_f ', 'Ferramentas de ETL (Apache Airflow, NiFi, Stitch, Fivetran, Pentaho etc)');P8_c_f; Ferramentas de ETL (Apache Airflow, NiFi, Stitch, Fivetran, Pentaho etc)
+('P8_c_g ', 'Plataformas de Machine Learning (TensorFlow, Azure Machine Learning, Kubeflow etc)');P8_c_g; Plataformas de Machine Learning (TensorFlow, Azure Machine Learning, Kub
+('P8_c_h ', 'Feature Store (Feast, Hopsworks, AWS Feature Store, Databricks Feature Store etc)');P8_c_h; Feature Store (Feast, Hopsworks, AWS Feature Store, Databricks Feature S
+('P8_c_i ', 'Sistemas de controle de versão (Github, DVC, Neptune, Gitlab etc)');P8_c_i; Sistemas de controle de versão (Github, DVC, Neptune, Gitlab etc)
+('P8_c_j ', 'Plataformas de Data Apps (Streamlit, Shiny, Plotly Dash etc)');P8_c_j; Plataformas de Data Apps (Streamlit, Shiny, Plotly Dash etc)
+('P8_c_k ', 'Ferramentas de estatística avançada como SPSS, SAS, etc.');P8_c_k; Ferramentas de estatística avançada como SPSS, SAS, etc.
+('P8_c_l ', 'Não utilizo nenhuma dessas ferramentas no meu dia a dia.');P8_c_l; Não utilizo nenhuma dessas ferramentas no meu dia a dia.
+('P8_d ', 'Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalho?');P8_d; Em qual das opções abaixo você gasta a maior parte do seu tempo no trabalh
+('P8_d_a ', 'Coletando e limpando os dados que uso para análise e modelagem.');P8_d_a; Coletando e limpando os dados que uso para análise e modelagem.
+('P8_d_b ', 'Entrando em contato com os times de negócio para definição do problema, identificar a solução e apresentação de resultados.');P8_d_b; Entrando em contato com os times de negócio para definição do problema,
+('P8_d_c ', 'Desenvolvendo modelos de Machine Learning com o objetivo de colocar em produção em sistemas (produtos de dados).');P8_d_c; Desenvolvendo modelos de Machine Learning com o objetivo de colocar em p
+('P8_d_d ', 'Colocando modelos em produção, criando os pipelines de dados, APIs de consumo e monitoramento.');P8_d_d; Colocando modelos em produção, criando os pipelines de dados, APIs de co
+('P8_d_e ', 'Cuidando da manutenção de modelos de Machine Learning já em produção, atuando no monitoramento, ajustes e refatoração quando necessário.');P8_d_e; Cuidando da manutenção de modelos de Machine Learning já em produção, at
+('P8_d_f ', 'Realizando construções de dashboards em ferramentas de BI como PowerBI, Tableau, Looker, Qlik, etc.');P8_d_f; Realizando construções de dashboards em ferramentas de BI como PowerBI,
+('P8_d_g ', 'Criando e dando manutenção em ETLs, DAGs e automações de pipelines de dados.');P8_d_g; Criando e dando manutenção em ETLs, DAGs e automações de pipelines de da
+('P8_d_h ', 'Criando e gerenciando soluções de Feature Store e cultura de MLOps.');P8_d_h; Criando e gerenciando soluções de Feature Store e cultura de MLOps.
+('P8_d_i ', 'Criando e mantendo a infra que meus modelos e soluções rodam (clusters, servidores, API, containers, etc.)');P8_d_i; Criando e mantendo a infra que meus modelos e soluções rodam (clusters,
+('P9_a ', 'Quais das iniciativas do Data Hackers que você já acessou/acompanhou?');P9_a; Quais das iniciativas do Data Hackers que você já acessou/acompanhou?
+('P9_a_a ', 'Blog/Medium do Data Hackers');P9_a_a; Blog/Medium do Data Hackers
+('P9_a_b ', 'Podcast do Data Hackers');P9_a_b; Podcast do Data Hackers
+('P9_a_d ', 'Newsletter Semanal');P9_a_d; Newsletter Semanal
+('P9_a_e ', 'Canal do Slack');P9_a_e; Canal do Slack
+('P9_a_f ', 'Canal do Youtube do Data Hackers');P9_a_f; Canal do Youtube do Data Hackers
+('P9_a_g ', 'Ainda não conhecia o Data Hackers');P9_a_g; Ainda não conhecia o Data Hackers
