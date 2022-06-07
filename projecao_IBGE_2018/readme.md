@@ -1,39 +1,39 @@
-QUADRO DESCRITIVO DO DICIONÁRIO DE DADOS	DESCRIÇÃO
--'Pais',	**País**
--'Nome_Regiao',	Região
--'Codigo_Regiao',	Código da Região
--'Nome_UF',	Unidade Federativa
--'Codigo_UF',	Código da Unidade Federativa
--'Sigla_UF',	Sigla da Unidade Federativa
--'Ano',	Ano
--'Populacao_Total',	População Total
--'Populacao_Homens',	Número de Homens
--'Populacao_Mulheres',	Número de Mulheres
--'Nascimentos',	Número de Nascimentos
--'Obitos',	Número de óbitos
--'TBN',	Taxa Bruta de Natalidade
--'TBM',	Taxa Bruta de Mortalidade
--'EVN',	Expectativa de Vida ao Nascer
--'EVN_Homens',	Expectativa de Vida ao Nascer Homens
--'EVN_Mulheres',	Expectativa de Vida ao Nascer de Mulheres
--'TMI',	Taxa de Mortalidade Infantil
--'TMI_Homens',	Taxa de Mortalidade Infantil Homens
--'TMI_Mulheres',	Taxa de Mortalidade Infantil Mulheres
--'TFT',	 Taxa de Fecundidade Total 
--'TEF_15_19',	Taxa Específica de Fecundidade de 15 a 19 anos
--'TEF_20_24',	Taxa Específica de Fecundidade de 10 a 24 anos
--'TEF_25_29',	Taxa Específica de Fecundidade de 25 a 29 anos
--'TEF_30_34',	Taxa Específica de Fecundidade de 30  a 34 anos
--'TEF_35_39',	Taxa Específica de Fecundidade de 35 a 39 anos
--'TEF_40_44',	Taxa Específica de Fecundidade de 40 a 44 anos
--'TEF_45_49',	Taxa Específica de Fecundidade de 45 a 49 anos
--'Rz_Dep_Jovens',	Razão de Dependência Jovens
--'Rz_Dep_Idosos',	Razão de Dependência Idosos
--'Rz_Dep_Total',	Razão de Dependência Total
--'Indice_Envelhecimento',	Índice de Envelhecimento
--'Proporcao_0a14anos',	Proporção da População entre 0 a 14 anos
--'Proporcao_15a64anos',	Proporção da População entre 15 a 64 anos
--'Proporcao_65anosoumais',	Proporção da População entre 65 ou mais
--'Proporcao_15a59anos',	Proporção da População entre 15 a 59 anos
--'Proporcao_60anosoumais',	Proporção da População entre 60 anos ou mais
--'Idade_Mediana',	Idade Mediana
+# DICIONÁRIO DOS DADOS
+- **'Pais'**:	País
+- **'Nome_Regiao'**:	Região
+- **'Codigo_Regiao'**:	Código da Região
+- **'Nome_UF'**:	Unidade Federativa
+- **'Codigo_UF'**:	Código da Unidade Federativa
+- **'Sigla_UF'**:	Sigla da Unidade Federativa
+- **'Ano'**:	Ano
+- **'Populacao_Total'**:	População Total
+- **'Populacao_Homens'**:	Número de Homens
+- **'Populacao_Mulheres'**:	Número de Mulheres
+- **'Nascimentos'**:	Número de Nascimentos
+- **'Obitos'**:	Número de óbitos
+- **'TBN'**:	Taxa Bruta de Natalidade
+- **'TBM'**:	Taxa Bruta de Mortalidade
+- **'EVN'**:	Expectativa de Vida ao Nascer
+- **'EVN_Homens'**:	Expectativa de Vida ao Nascer Homens
+- **'EVN_Mulheres'**:	Expectativa de Vida ao Nascer de Mulheres
+- **'TMI'**:	Taxa de Mortalidade Infantil
+- **'TMI_Homens'**:	Taxa de Mortalidade Infantil Homens
+- **'TMI_Mulheres'**:	Taxa de Mortalidade Infantil Mulheres
+- **'TFT'**:	 Taxa de Fecundidade Total 
+- **'TEF_15_19'**:	Taxa Específica de Fecundidade de 15 a 19 anos
+- **'TEF_20_24'**:	Taxa Específica de Fecundidade de 10 a 24 anos
+- **'TEF_25_29'**:	Taxa Específica de Fecundidade de 25 a 29 anos
+- **'TEF_30_34'**:	Taxa Específica de Fecundidade de 30  a 34 anos
+- **'TEF_35_39'**:	Taxa Específica de Fecundidade de 35 a 39 anos
+- **'TEF_40_44'**:	Taxa Específica de Fecundidade de 40 a 44 anos
+- **'TEF_45_49'**:	Taxa Específica de Fecundidade de 45 a 49 anos
+- **'Rz_Dep_Jovens'**:	Razão de Dependência Jovens
+- **'Rz_Dep_Idosos'**:	Razão de Dependência Idosos
+- **'Rz_Dep_Total'**:	Razão de Dependência Total
+- **'Indice_Envelhecimento'**:	Índice de Envelhecimento
+- **'Proporcao_0a14anos'**:	Proporção da População entre 0 a 14 anos
+- **'Proporcao_15a64anos'**:	Proporção da População entre 15 a 64 anos
+- **'Proporcao_65anosoumais'**:	Proporção da População entre 65 ou mais
+- **'Proporcao_15a59anos'**:	Proporção da População entre 15 a 59 anos
+- **'Proporcao_60anosoumais'**:	Proporção da População entre 60 anos ou mais
+- **'Idade_Mediana'**:	Idade Mediana
